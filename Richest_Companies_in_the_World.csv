@@ -1,0 +1,501 @@
+﻿Rank,Name,Year,Revenues,Revenue Percent Change,Profits,Profits Percent Change,Assets,Employees,Change in Rank,Newcomer,Sector,Country,City,lat,lng
+74,Petrobras,2019,"$95,584.00 ",8%,"$7,173.00 ",-,"$222,068.00 ","63,361",-1,no,Energy,Brazil,Rio de Janeiro,-22.9083,-43.1964
+73,Petrobras,2018,"$88,827.00 ",9.10%,($91.00),-,"$251,366.00 ","62,703",2,no,Energy,Brazil,Rio de Janeiro,-22.9083,-43.1964
+75,Petrobras,2017,"$81,405.00 ",-16.30%,"($4,838.00)",-,"$246,983.00 ","68,829",-17,no,Energy,Brazil,Rio de Janeiro,-22.9083,-43.1964
+2,State Grid,2021,"$386,617.70 ",1%,"$5,580.40 ",-30%,"$666,088.50 ","896,360",1,no,Energy,China,Beijing,39.905,116.3914
+4,China National Petroleum,2021,"$283,957.60 ",-25%,"$4,575.20 ",3%,"$626,616.70 ","1,242,245",-,no,Energy,China,Beijing,39.905,116.3914
+5,Sinopec Group,2021,"$283,727.60 ",-30%,"$6,205.20 ",-8.70%,"$343,289.00 ","553,833",-3,no,Energy,China,Beijing,39.905,116.3914
+13,China State Construction Engineering,2021,"$234,425.00 ",14%,"$3,578.40 ",7.40%,"$338,033.20 ","356,864",5,no,Engineering & Construction,China,Beijing,39.905,116.3914
+20,Industrial & Commercial Bank of China,2021,"$182,794.40 ",3%,"$45,783.40 ",1.30%,"$5,110,353.70 ","439,787",4,no,Financials,China,Beijing,39.905,116.3914
+25,China Construction Bank,2021,"$172,000.20 ",8%,"$39,282.50 ",1.70%,"$4,311,456.60 ","373,814",5,no,Financials,China,Beijing,39.905,116.3914
+29,Agricultural Bank of China,2021,"$153,884.60 ",5%,"$31,293.40 ",1.90%,"$4,169,355.90 ","462,592",6,no,Financials,China,Beijing,39.905,116.3914
+32,China Life Insurance,2021,"$144,589.10 ",10%,"$4,648.10 ",-0.30%,"$776,308.80 ","183,417",13,no,Financials,China,Beijing,39.905,116.3914
+35,China Railway Engineering Group,2021,"$141,383.60 ",15%,"$1,638.80 ",6.70%,"$185,315.70 ","308,483",15,no,Engineering & Construction,China,Beijing,39.905,116.3914
+39,Bank of China,2021,"$134,045.60 ",-1%,"$27,952.10 ",3%,"$3,739,871.10 ","309,084",4,no,Financials,China,Beijing,39.905,116.3914
+42,China Railway Construction,2021,"$131,992.30 ",10%,"$1,485.50 ",9.30%,"$190,916.10 ","364,632",12,no,Engineering & Construction,China,Beijing,39.905,116.3914
+56,China Mobile Communications,2021,"$111,825.50 ",3%,"$12,920.10 ",6.40%,"$304,527.80 ","455,721",9,no,Telecommunications,China,Beijing,39.905,116.3914
+59,JD.com,2021,"$108,087.00 ",29%,"$7,160.20 ",306%,"$64,718.40 ","314,906",43,no,Retailing,China,Beijing,39.905,116.3914
+61,China Communications Construction,2021,"$106,867.70 ",12%,"$1,165.00 ",-12.60%,"$306,555.00 ","213,438",17,no,Engineering & Construction,China,Beijing,39.905,116.3914
+65,China Minmetals,2021,"$102,014.80 ",16%,$491.10 ,113.40%,"$150,651.90 ","205,015",27,no,Materials,China,Beijing,39.905,116.3914
+74,China Post Group,2021,"$96,304.10 ",8%,"$4,698.40 ",5.80%,"$1,811,048.30 ","827,231",16,no,Transportation,China,Beijing,39.905,116.3914
+90,People's Insurance Co. of China,2021,"$84,290.40 ",6%,"$2,903.80 ",-9.40%,"$192,500.20 ","193,494",22,no,Financials,China,Beijing,39.905,116.3914
+92,China National Offshore Oil,2021,"$83,296.30 ",-23%,"$4,802.40 ",-31%,"$193,366.20 ","80,058",-28,no,Energy,China,Beijing,39.905,116.3914
+2,Sinopec Group,2020,"$407,009.00 ",-1.80%,"$6,793.20 ",16.20%,"$317,515.70 ","582,648",-,no,Energy,China,Beijing,39.905,116.3914
+3,State Grid,2020,"$383,906.00 ",-0.80%,"$7,970.00 ",-2.50%,"$596,616.30 ","907,677",2,no,Energy,China,Beijing,39.905,116.3914
+4,China National Petroleum,2020,"$379,130.00 ",-3.50%,"$4,443.20 ",95.70%,"$608,085.60 ","1,344,410",-,no,Energy,China,Beijing,39.905,116.3914
+18,China State Construction Engineering,2020,"$205,839.00 ",13.40%,"$3,333.00 ",5.50%,"$294,070.00 ","335,038",3,no,Engineering & Construction,China,Beijing,39.905,116.3914
+24,Industrial & Commercial Bank of China,2020,"$177,069.00 ",4.80%,"$45,194.50 ",0.40%,"$4,322,528.40 ","445,106",2,no,Financials,China,Beijing,39.905,116.3914
+30,China Construction Bank,2020,"$158,884.00 ",5.10%,"$38,609.70 ",0.30%,"$3,651,644.60 ","370,169",1,no,Financials,China,Beijing,39.905,116.3914
+35,Agricultural Bank of China,2020,"$147,313.00 ",5.60%,"$30,701.20 ",0.10%,"$3,571,541.70 ","467,631",1,no,Financials,China,Beijing,39.905,116.3914
+43,Bank of China,2020,"$135,091.00 ",5.80%,"$27,126.90 ",-0.40%,"$3,268,837.90 ","309,384",1,no,Financials,China,Beijing,39.905,116.3914
+45,China Life Insurance,2020,"$131,244.00 ",13%,"$4,660.30 ",-,"$648,393.20 ","180,401",6,no,Financials,China,Beijing,39.905,116.3914
+50,China Railway Engineering Group,2020,"$123,324.00 ",10%,"$1,535.30 ",23.70%,"$152,982.50 ","302,394",5,no,Engineering & Construction,China,Beijing,39.905,116.3914
+54,China Railway Construction,2020,"$120,302.00 ",8.90%,"$1,359.20 ",14.50%,"$155,597.90 ","364,907",5,no,Engineering & Construction,China,Beijing,39.905,116.3914
+64,China National Offshore Oil,2020,"$108,687.00 ",0.50%,"$6,957.20 ",-5.10%,"$184,922.20 ","92,080",-1,no,Energy,China,Beijing,39.905,116.3914
+65,China Mobile Communications,2020,"$108,527.00 ",-3.20%,"$12,145.10 ",3.40%,"$266,190.30 ","457,565",-9,no,Telecommunications,China,Beijing,39.905,116.3914
+78,China Communications Construction,2020,"$95,096.00 ",7.90%,"$1,332.60 ",-15.90%,"$232,053.40 ","197,309",15,no,Engineering & Construction,China,Beijing,39.905,116.3914
+90,China Post Group,2020,"$89,347.00 ",4.30%,"$4,440.90 ",7.40%,"$1,518,542.80 ","927,171",11,no,Transportation,China,Beijing,39.905,116.3914
+92,China Minmetals,2020,"$88,357.00 ",10.30%,$230.10 ,-,"$133,441.70 ","199,486",20,no,Materials,China,Beijing,39.905,116.3914
+2,Sinopec Group,2019,"$414,649.90 ",27%,"$5,845.00 ",280.10%,"$329,186.30 ","619,151",1,no,Energy,China,Beijing,39.905,116.3914
+4,China National Petroleum,2019,"$392,976.60 ",21%,"$2,270.50 ",-,"$601,899.90 ","1,382,401",-,no,Energy,China,Beijing,39.905,116.3914
+5,State Grid,2019,"$387,056.00 ",11%,"$8,174.80 ",-14.30%,"$572,309.50 ","917,717",-3,no,Energy,China,Beijing,39.905,116.3914
+21,China State Construction Engineering,2019,"$181,524.50 ",16%,"$3,159.50 ",18.10%,"$272,768.80 ","302,827",2,no,Engineering & Construction,China,Beijing,39.905,116.3914
+26,Industrial & Commercial Bank of China,2019,"$168,979.00 ",10%,"$45,002.30 ",6.30%,"$4,034,481.60 ","449,296",-,no,Financials,China,Beijing,39.905,116.3914
+31,China Construction Bank,2019,"$151,110.80 ",9%,"$38,498.40 ",7.40%,"$3,382,421.70 ","366,996",-,no,Financials,China,Beijing,39.905,116.3914
+36,Agricultural Bank of China,2019,"$139,523.60 ",14%,"$30,656.50 ",7.40%,"$3,293,105.00 ","477,526",4,no,Financials,China,Beijing,39.905,116.3914
+44,Bank of China,2019,"$127,714.10 ",11%,"$27,225.20 ",6.70%,"$3,097,612.00 ","310,119",2,no,Financials,China,Beijing,39.905,116.3914
+51,China Life Insurance,2019,"$116,171.50 ",-3%,"($2,566.90)",-1063.10%,"$580,331.60 ","175,077",-9,no,Financials,China,Beijing,39.905,116.3914
+55,China Railway Engineering Group,2019,"$112,132.70 ",9%,"$1,240.90 ",6.10%,"$137,914.20 ","307,992",1,no,Engineering & Construction,China,Beijing,39.905,116.3914
+56,China Mobile Communications,2019,"$112,096.00 ",2%,"$11,745.30 ",7.40%,"$255,216.60 ","462,046",-3,no,Telecommunications,China,Beijing,39.905,116.3914
+59,China Railway Construction,2019,"$110,455.90 ",10%,"$1,186.90 ",-9.30%,"$134,180.20 ","356,326",-1,no,Engineering & Construction,China,Beijing,39.905,116.3914
+63,China National Offshore Oil,2019,"$108,130.40 ",33%,"$7,331.10 ",142.90%,"$177,193.60 ","93,601",24,no,Energy,China,Beijing,39.905,116.3914
+67,China Development Bank,2019,"$103,072.90 ",28%,"$16,744.30 ",0.70%,"$2,356,616.20 ","9,507",-,yes,Financials,China,Beijing,39.905,116.3914
+88,Sinochem Group,2019,"$89,358.10 ",16%,$701.40 ,-6.90%,"$71,332.70 ","66,713",10,no,Wholesalers,China,Beijing,39.905,116.3914
+93,China Communications Construction,2019,"$88,140.90 ",11%,"$1,585.20 ",2.60%,"$198,943.70 ","178,572",-2,no,Engineering & Construction,China,Beijing,39.905,116.3914
+2,State Grid,2018,"$348,903.00 ",10.70%,"$9,533.40 ",-0.40%,"$585,278.00 ","913,546",-,no,Energy,China,Beijing,39.905,116.3914
+3,Sinopec Group,2018,"$326,953.00 ",22.20%,"$1,537.80 ",22.20%,"$346,544.50 ","667,793",-,no,Energy,China,Beijing,39.905,116.3914
+4,China National Petroleum,2018,"$326,008.00 ",24.20%,($690.50),-137%,"$629,410.50 ","1,470,193",-,no,Energy,China,Beijing,39.905,116.3914
+23,China State Construction Engineering,2018,"$156,071.00 ",8%,"$2,675.20 ",7.30%,"$239,680.90 ","270,467",1,no,Engineering & Construction,China,Beijing,39.905,116.3914
+26,Industrial & Commercial Bank of China,2018,"$153,021.00 ",3.60%,"$42,323.70 ",1%,"$4,005,995.50 ","453,048",-4,no,Financials,China,Beijing,39.905,116.3914
+31,China Construction Bank,2018,"$138,594.00 ",2.60%,"$35,845.20 ",2.90%,"$3,397,479.00 ","370,415",-3,no,Financials,China,Beijing,39.905,116.3914
+40,Agricultural Bank of China,2018,"$122,366.00 ",4.30%,"$28,550.40 ",3.10%,"$3,233,013.20 ","491,578",-2,no,Financials,China,Beijing,39.905,116.3914
+42,China Life Insurance,2018,"$120,224.00 ",14.7,$2.67 ,64.10%,"$552,760.60 ","170,517",9,no,Financials,China,Beijing,39.905,116.3914
+46,Bank of China,2018,"$115,423.00 ",1.50%,"$25,509.20 ",3%,"$2,989,469.30 ","311,133",-4,no,Financials,China,Beijing,39.905,116.3914
+53,China Mobile Communications,2018,"$110,159.00 ",2.80%,"$10,932.00 ",13.70%,"$264,342.60 ","467,532",-6,no,Telecommunications,China,Beijing,39.905,116.3914
+56,China Railway Engineering Group,2018,"$102,767.00 ",6%,"$1,169.80 ",26.60%,"$130,212.20 ","290,535",-1,no,Engineering & Construction,China,Beijing,39.905,116.3914
+58,China Railway Construction,2018,"$100,855.00 ",6.30%,"$1,308.80 ",9.80%,"$126,891.50 ","364,964",-,no,Engineering & Construction,China,Beijing,39.905,116.3914
+87,China National Offshore Oil,2018,"$81,482.00 ",23.70%,"$3,018.50 ",72.20%,"$173,408.30 ","97,986",28,no,Energy,China,Beijing,39.905,116.3914
+91,China Communications Construction,2018,"$79,417.00 ",12.20%,"$1,544.70 ",7.90%,"$183,197.50 ","161,434",12,no,Engineering & Construction,China,Beijing,39.905,116.3914
+98,Sinochem Group,2018,"$76,765.00 ",28.90%,$753.30 ,60.90%,"$64,065.60 ","63,799",45,no,Wholesalers,China,Beijing,39.905,116.3914
+2,State Grid,2017,"$315,199.00 ",-4.40%,"$9,571.30 ",-6.20%,"$489,838.00 ","926,067",-,no,Energy,China,Beijing,39.905,116.3914
+3,Sinopec Group,2017,"$267,518.00 ",-9.10%,"$1,257.90 ",-65%,"$310,726.00 ","713,288",1,no,Energy,China,Beijing,39.905,116.3914
+4,China National Petroleum,2017,"$262,573.00 ",-12.30%,"$1,867.50 ",-73.70%,"$585,619.00 ","1,512,048",-1,no,Energy,China,Beijing,39.905,116.3914
+22,Industrial & Commercial Bank of China,2017,"$147,675.00 ",-11.70%,"$41,883.90 ",-5%,"$3,473,238.00 ","461,749",-7,no,Financials,China,Beijing,39.905,116.3914
+24,China State Construction Engineering,2017,"$144,505.00 ",3.10%,"$2,492.90 ",10.70%,"$201,269.00 ","263,915",3,no,Engineering & Construction,China,Beijing,39.905,116.3914
+28,China Construction Bank,2017,"$135,093.00 ",-8.70%,"$34,840.90 ",-4%,"$3,016,578.00 ","362,482",-6,no,Financials,China,Beijing,39.905,116.3914
+38,Agricultural Bank of China,2017,"$117,275.00 ",-12.10%,"$27,687.80 ",-3.60%,"$2,816,039.00 ","501,368",-9,no,Financials,China,Beijing,39.905,116.3914
+42,Bank of China,2017,"$113,708.00 ",-7.10%,"$24,773.40 ",-8.90%,"$2,611,539.00 ","308,900",-7,no,Financials,China,Beijing,39.905,116.3914
+47,China Mobile Communications,2017,"$107,117.00 ",0.30%,"$9,614.30 ",-5.20%,"$246,446.00 ","463,712",-2,no,Telecommunications,China,Beijing,39.905,116.3914
+51,China Life Insurance,2017,"$104,818.00 ",3.50%,$162.40 ,-96.10%,"$483,026.00 ","143,676",3,no,Financials,China,Beijing,39.905,116.3914
+55,China Railway Engineering Group,2017,"$96,979.00 ",-2.50%,$924.10 ,-6%,"$108,864.00 ","292,215",2,no,Engineering & Construction,China,Beijing,39.905,116.3914
+58,China Railway Construction,2017,"$94,877.00 ",-0.80%,"$1,192.40 ",7.80%,"$109,968.00 ","336,872",4,no,Engineering & Construction,China,Beijing,39.905,116.3914
+66,China FAW Group,2021,"$101,075.80 ",13%,"$2,866.50 ",0.70%,"$74,933.40 ","121,002",23,no,Motor Vehicles & Parts,China,Changchun,43.9,125.2
+89,China FAW Group,2020,"$89,417.00 ",-0.40%,"$2,847.80 ",7%,"$70,353.70 ","129,580",-2,no,Motor Vehicles & Parts,China,Changchun,43.9,125.2
+87,China FAW Group,2019,"$89,804.70 ",29%,"$2,660.30 ",-6.80%,"$66,682.90 ","142,451",38,no,Motor Vehicles & Parts,China,Changchun,43.9,125.2
+91,China Southern Power Grid,2021,"$83,699.00 ",2%,$998.60 ,-45.50%,"$155,171.80 ","288,974",14,no,Energy,China,Guangzhou,23.1288,113.259
+100,China Southern Power Grid,2017,"$71,242.00 ",-4.60%,"$2,329.80 ",4.80%,"$99,187.00 ","302,421",-5,no,Energy,China,Guangzhou,23.1288,113.259
+63,Alibaba Group Holding,2021,"$105,865.70 ",45%,"$22,224.00 ",3.60%,"$257,977.70 ","251,462",69,no,Retailing,China,Hangzhou,30.25,120.1675
+69,China Resources,2021,"$99,437.60 ",5%,"$4,330.20 ",21.20%,"$275,691.90 ","370,955",10,no,Health Care,China,Hong Kong,22.305,114.185
+79,China Resources,2020,"$94,758.00 ",3%,"$3,571.60 ",2.80%,"$232,277.10 ","396,456",1,no,Health Care,China,Hong Kong,22.305,114.185
+80,China Resources,2019,"$91,986.00 ",12%,"$3,474.60 ",10.20%,"$209,651.50 ","421,274",6,no,Health Care,China,Hong Kong,22.305,114.185
+86,China Resources,2018,"$82,184.00 ",8.50%,"$3,151.90 ",22.20%,"$186,720.40 ","423,169",-,no,Health Care,China,Hong Kong,22.305,114.185
+86,China Resources,2017,"$75,776.00 ",-1%,"$2,580.20 ",3.70%,"$158,291.00 ","420,572",5,no,Health Care,China,Hong Kong,22.305,114.185
+70,Shandong Energy Group,2021,"$97,860.60 ",137%,"$1,161.90 ",322.60%,"$104,996.60 ","244,832",225,no,Energy,China,Jinan,36.6667,116.9833
+60,SAIC Motor,2021,"$107,555.20 ",-12%,"$2,961.00 ",-20.10%,"$140,906.50 ","143,261",-8,no,Motor Vehicles & Parts,China,Shanghai,31.1667,121.4667
+72,China Baowu Steel Group,2021,"$97,643.10 ",22%,"$3,628.70 ",25.10%,"$155,413.20 ","234,570",39,no,Materials,China,Shanghai,31.1667,121.4667
+52,SAIC Motor,2020,"$122,071.00 ",-10.50%,"$3,706.10 ",-31.90%,"$121,930.80 ","151,785",-13,no,Motor Vehicles & Parts,China,Shanghai,31.1667,121.4667
+39,SAIC Motor,2019,"$136,392.50 ",6%,"$5,443.80 ",6.90%,"$114,011.70 ","147,738",-3,no,Motor Vehicles & Parts,China,Shanghai,31.1667,121.4667
+36,SAIC Motor,2018,"$128,819.00 ",13.10%,"$5,091.30 ",5.70%,"$111,107.70 ","48,767",5,no,Motor Vehicles & Parts,China,Shanghai,31.1667,121.4667
+41,SAIC Motor,2017,"$113,861.00 ",6.70%,"$4,818.20 ",1.60%,"$84,989.00 ","97,582",5,no,Motor Vehicles & Parts,China,Shanghai,31.1667,121.4667
+16,Ping An Insurance,2021,"$191,509.40 ",4%,"$20,738.90 ",-4.10%,"$1,460,210.00 ","362,035",5,no,Financials,China,Shenzhen,22.535,114.054
+44,Huawei Investment & Holding,2021,"$129,183.50 ",4%,"$9,361.60 ",3.30%,"$134,383.80 ","197,000",5,no,Technology,China,Shenzhen,22.535,114.054
+68,Amer International Group,2021,"$100,280.50 ",13%,"$1,851.70 ",2.50%,"$31,046.80 ","20,180",23,no,Materials,China,Shenzhen,22.535,114.054
+21,Ping An Insurance,2020,"$184,280.00 ",12.60%,"$21,626.70 ",33.20%,"$1,180,488.50 ","372,194",8,no,Financials,China,Shenzhen,22.535,114.054
+49,Huawei Investment & Holding,2020,"$124,316.00 ",14%,"$9,062.10 ",1.20%,"$123,269.90 ","194,000",12,no,Technology,China,Shenzhen,22.535,114.054
+91,Amer International Group,2020,"$88,862.00 ",16.40%,"$1,807.30 ",21.90%,"$23,170.80 ","18,103",28,no,Materials,China,Shenzhen,22.535,114.054
+29,Ping An Insurance,2019,"$163,597.40 ",14%,"$16,237.20 ",23.20%,"$1,040,383.40 ","376,900",-,no,Financials,China,Shenzhen,22.535,114.054
+61,Huawei Investment & Holding,2019,"$109,030.40 ",22%,"$8,953.90 ",27.50%,"$96,973.70 ","188,000",11,no,Technology,China,Shenzhen,22.535,114.054
+29,Ping An Insurance,2018,"$144,197.00 ",23.70%,"$13,181.40 ",40.30%,"$997,093.80 ","342,550",10,no,Financials,China,Shenzhen,22.535,114.054
+72,Huawei Investment & Holding,2018,"$89,311.00 ",13.80%,"$7,020.80 ",25.80%,"$77,583.70 ","180,000",11,no,Technology,China,Shenzhen,22.535,114.054
+39,Ping An Insurance,2017,"$116,581.00 ",5.70%,"$9,392.00 ",8.90%,"$802,490.00 ","318,588",2,no,Financials,China,Shenzhen,22.535,114.054
+83,Huawei Investment & Holding,2017,"$78,511.00 ",24.90%,"$5,579.40 ",-5%,"$63,837.00 ","180,000",46,no,Technology,China,Shenzhen,22.535,114.054
+67,Hengli Group,2021,"$100,773.10 ",25%,"$2,372.70 ",14.20%,"$40,747.70 ","118,496",40,no,Industrials,China,Suzhou,33.6333,116.9683
+75,Pacific Construction Group,2020,"$97,536.00 ",12.60%,"$3,455.00 ",1.90%,"$63,694.60 ","453,635",22,no,Engineering & Construction,China,Ürümqi,43.8225,87.6125
+97,Pacific Construction Group,2019,"$86,622.60 ",12%,"$3,390.90 ",7.90%,"$58,175.00 ","387,525",-1,no,Engineering & Construction,China,Ürümqi,43.8225,87.6125
+96,Pacific Construction Group,2018,"$77,205.00 ",3.50%,"$3,143.90 ",-0.80%,"$56,577.20 ","365,425",-7,no,Engineering & Construction,China,Ürümqi,43.8225,87.6125
+89,Pacific Construction Group,2017,"$74,629.00 ",2.20%,"$3,168.10 ",-1.20%,"$48,196.00 ","362,128",10,no,Engineering & Construction,China,Ürümqi,43.8225,87.6125
+85,Dongfeng Motor,2021,"$86,856.30 ",3%,"$1,115.50 ",-16%,"$85,096.00 ","145,756",15,no,Motor Vehicles & Parts,China,Wuhan,30.5872,114.2881
+100,Dongfeng Motor,2020,"$84,049.00 ",-7.60%,"$1,328.40 ",-17%,"$71,423.30 ","154,641",-18,no,Motor Vehicles & Parts,China,Wuhan,30.5872,114.2881
+82,Dongfeng Motor,2019,"$90,934.20 ",-3%,"$1,599.70 ",14.30%,"$66,397.10 ","167,528",-17,no,Motor Vehicles & Parts,China,Wuhan,30.5872,114.2881
+65,Dongfeng Motor,2018,"$93,294.00 ",8.20%,"$1,400.00 ",-1.10%,"$71,384.20 ","180,433",3,no,Motor Vehicles & Parts,China,Wuhan,30.5872,114.2881
+68,Dongfeng Motor,2017,"$86,194.00 ",4.10%,"$1,415.00 ",-4.40%,"$59,532.00 ","189,795",13,no,Motor Vehicles & Parts,China,Wuhan,30.5872,114.2881
+52,Total,2021,"$119,704.00 ",-32%,"($7,242.00)",-164.30%,"$266,132.00 ","105,476",-27,no,Energy,France,Courbevoie,48.8978,2.2531
+25,Total,2020,"$176,249.00 ",-4.30%,"$11,267.00 ",-1.60%,"$273,294.00 ","107,776",-5,no,Energy,France,Courbevoie,48.8978,2.2531
+20,Total,2019,"$184,106.00 ",24%,"$11,446.00 ",32.60%,"$256,762.00 ","104,460",8,no,Energy,France,Courbevoie,48.8978,2.2531
+28,Total,2018,"$149,099.00 ",16.60%,"$8,631.00 ",39.30%,"$242,631.00 ","98,277",2,no,Energy,France,Courbevoie,48.8978,2.2531
+30,Total,2017,"$127,925.00 ",-10.80%,"$6,196.00 ",21.80%,"$230,978.00 ","102,168",-6,no,Energy,France,Courbevoie,48.8978,2.2531
+93,Engie,2017,"$73,692.00 ",-4.90%,($458.90),-,"$167,158.00 ","153,090",-4,no,Energy,France,Courbevoie,48.8978,2.2531
+96,Carrefour,2021,"$82,211.30 ",-4%,$730.40 ,-42.20%,"$58,238.20 ","322,164",2,no,Food & Drug Stores,France,Massy,48.7309,2.2713
+98,Carrefour,2020,"$85,905.00 ",-6.60%,"$1,263.60 ",-,"$57,020.20 ","321,383",-17,no,Food & Drug Stores,France,Massy,48.7309,2.2713
+81,Carrefour,2019,"$91,955.20 ",1%,($662.10),-,"$54,153.10 ","363,862",-13,no,Food & Drug Stores,France,Massy,48.7309,2.2713
+68,Carrefour,2018,"$91,276.00 ",4.80%,($598.60),-172.60%,"$57,412.30 ","378,923",-1,no,Food & Drug Stores,France,Massy,48.7309,2.2713
+67,Carrefour,2017,"$87,112.00 ",-0.40%,$825.00 ,-24.10%,"$51,513.00 ","384,151",6,no,Food & Drug Stores,France,Massy,48.7309,2.2713
+93,Crédit Agricole,2021,"$82,958.80 ",-21%,"$3,067.40 ",-43.40%,"$2,399,947.70 ","73,817",-26,no,Financials,France,Montrouge,48.8172,2.3219
+67,Crédit Agricole,2020,"$104,972.00 ",18.80%,"$5,421.70 ",4.40%,"$1,984,002.50 ","73,037",24,no,Financials,France,Montrouge,48.8172,2.3219
+91,Crédit Agricole,2019,"$88,325.00 ",5%,"$5,192.70 ",26.20%,"$1,856,682.30 ","73,346",-9,no,Financials,France,Montrouge,48.8172,2.3219
+82,Crédit Agricole,2018,"$84,222.00 ",4.90%,"$4,113.20 ",5.10%,"$1,861,531.00 ","73,707",-2,no,Financials,France,Montrouge,48.8172,2.3219
+80,Crédit Agricole,2017,"$80,258.00 ",-4.60%,"$3,914.70 ",0.40%,"$1,607,501.00 ","70,830",-3,no,Financials,France,Montrouge,48.8172,2.3219
+46,AXA,2021,"$128,011.40 ",-14%,"$3,605.20 ",-16.50%,"$984,656.00 ","96,595",-12,no,Financials,France,Paris,48.8566,2.3522
+97,BNP Paribas,2021,"$81,632.40 ",-4%,"$8,052.50 ",-12%,"$3,045,415.30 ","193,319",2,no,Financials,France,Paris,48.8566,2.3522
+34,AXA,2020,"$148,984.00 ",18.60%,"$4,317.00 ",70.90%,"$876,457.50 ","99,843",12,no,Financials,France,Paris,48.8566,2.3522
+99,BNP Paribas,2020,"$85,058.00 ",1.30%,"$9,147.70 ",3%,"$2,429,673.90 ","194,001",5,no,Financials,France,Paris,48.8566,2.3522
+46,AXA,2019,"$125,578.20 ",-16%,"$2,525.60 ",-63.90%,"$1,063,784.40 ","104,065",-19,no,Financials,France,Paris,48.8566,2.3522
+27,AXA,2018,"$149,461.00 ",4%,"$6,998.90 ",8.60%,"$1,044,822.30 ","95,728",-2,no,Financials,France,Paris,48.8566,2.3522
+44,BNP Paribas,2018,"$117,375.00 ",7.70%,"$8,746.10 ",2.70%,"$2,353,808.80 ","189,509",-1,no,Financials,France,Paris,48.8566,2.3522
+94,Electricite de France,2018,"$78,490.00 ",-0.30%,"$3,576.70 ",13.40%,"$337,118.20 ","151,073",-12,no,Energy,France,Paris,48.8566,2.3522
+25,AXA,2017,"$143,722.00 ",11.20%,"$6,446.00 ",3.50%,"$941,556.00 ","97,707",8,no,Financials,France,Paris,48.8566,2.3522
+43,BNP Paribas,2017,"$109,026.00 ",-2.20%,"$8,517.20 ",14.70%,"$2,190,423.00 ","184,839",-4,no,Financials,France,Paris,48.8566,2.3522
+82,Electricite de France,2017,"$78,740.00 ",-5.40%,"$3,152.80 ",139.40%,"$297,026.00 ","154,808",-2,no,Energy,France,Paris,48.8566,2.3522
+96,Peugeot,2019,"$87,364.30 ",19%,"$3,336.30 ",53.40%,"$70,811.10 ","216,539",12,no,Motor Vehicles & Parts,France,Rueil-Malmaison,48.876,2.181
+53,Deutsche Telekom,2021,"$115,083.20 ",28%,"$4,737.80 ",9.50%,"$324,205.40 ","226,291",33,no,Telecommunications,Germany,Bonn,50.7339,7.0997
+86,Deutsche Telekom,2020,"$90,135.00 ",0.90%,"$4,328.20 ",69.30%,"$191,562.30 ","210,533",4,no,Telecommunications,Germany,Bonn,50.7339,7.0997
+90,Deutsche Telekom,2019,"$89,286.80 ",6%,"$2,556.20 ",-34.50%,"$166,163.60 ","215,675",-9,no,Telecommunications,Germany,Bonn,50.7339,7.0997
+81,Deutsche Telekom,2018,"$84,481.00 ",4.50%,"$3,901.30 ",31.90%,"$169,709.40 ","216,000",-4,no,Telecommunications,Germany,Bonn,50.7339,7.0997
+77,Deutsche Telekom,2017,"$80,832.00 ",5.30%,"$2,958.10 ",-18%,"$156,597.00 ","221,000",13,no,Telecommunications,Germany,Bonn,50.7339,7.0997
+78,Uniper,2019,"$92,260.80 ",13%,($533.40),-,"$57,841.50 ","11,828",10,no,Energy,Germany,Düsseldorf,51.2311,6.7724
+88,Uniper,2018,"$81,428.00 ",9.40%,($739.50),-,"$51,826.40 ","12,575",3,no,Energy,Germany,Düsseldorf,51.2311,6.7724
+91,Uniper,2017,"$74,407.00 ",-,"($3,557.50)",-,"$51,541.00 ","12,890",-,yes,Energy,Germany,Düsseldorf,51.2311,6.7724
+98,Bosch Group,2021,"$81,463.80 ",-6%,$360.10 ,-79.80%,"$111,817.40 ","395,034",-3,no,Motor Vehicles & Parts,Germany,Gerlingen,48.8,9.0653
+95,Bosch Group,2020,"$86,990.00 ",-6.10%,"$1,780.70 ",-50.50%,"$99,927.30 ","398,150",-18,no,Motor Vehicles & Parts,Germany,Gerlingen,48.8,9.0653
+77,Bosch Group,2019,"$92,601.90 ",5%,"$3,596.00 ",15.90%,"$95,616.50 ","409,881",-2,no,Motor Vehicles & Parts,Germany,Gerlingen,48.8,9.0653
+75,Bosch Group,2018,"$87,997.00 ",8.80%,"$3,103.20 ",44%,"$98,306.90 ","402,166",1,no,Motor Vehicles & Parts,Germany,Gerlingen,48.8,9.0653
+76,Bosch Group,2017,"$80,869.00 ",3.30%,"$2,155.30 ",-39.10%,"$86,348.00 ","389,281",11,no,Motor Vehicles & Parts,Germany,Gerlingen,48.8,9.0653
+38,Allianz,2021,"$136,173.30 ",5%,"$7,756.20 ",-12.40%,"$1,297,242.70 ","150,269",8,no,Financials,Germany,Munich,48.1372,11.5755
+54,BMW Group,2021,"$112,794.10 ",-3%,"$4,301.40 ",-21.80%,"$265,146.10 ","120,726",2,no,Motor Vehicles & Parts,Germany,Munich,48.1372,11.5755
+46,Allianz,2020,"$130,359.00 ",2.80%,"$8,857.80 ",0.60%,"$1,134,954.00 ","147,268",-1,no,Financials,Germany,Munich,48.1372,11.5755
+56,BMW Group,2020,"$116,638.00 ",1.40%,"$5,501.20 ",-34.50%,"$255,945.40 ","133,778",-3,no,Motor Vehicles & Parts,Germany,Munich,48.1372,11.5755
+74,Siemens,2020,"$97,937.00 ",-0.90%,"$5,834.50 ",-15.60%,"$163,785.30 ","385,000",-4,no,Industrials,Germany,Munich,48.1372,11.5755
+45,Allianz,2019,"$126,799.60 ",3%,"$8,806.40 ",14.80%,"$1,025,919.10 ","142,460",-7,no,Financials,Germany,Munich,48.1372,11.5755
+53,BMW Group,2019,"$115,042.80 ",3%,"$8,399.30 ",-13.60%,"$238,864.10 ","134,682",-2,no,Motor Vehicles & Parts,Germany,Munich,48.1372,11.5755
+70,Siemens,2019,"$98,802.00 ",8%,"$6,908.90 ",3.60%,"$161,335.90 ","379,000",-4,no,Industrials,Germany,Munich,48.1372,11.5755
+38,Allianz,2018,"$123,532.00 ",1.10%,"$7,668.40 ",0.70%,"$1,082,252.60 ","140,553",-4,no,Financials,Germany,Munich,48.1372,11.5755
+51,BMW Group,2018,"$111,231.00 ",6.80%,"$9,716.60 ",28%,"$232,328.30 ","129,932",1,no,Motor Vehicles & Parts,Germany,Munich,48.1372,11.5755
+66,Siemens,2018,"$91,585.00 ",3.60%,"$6,667.40 ",10.20%,"$158,160.80 ","372,000",-,no,Industrials,Germany,Munich,48.1372,11.5755
+34,Allianz,2017,"$122,196.00 ",-0.60%,"$7,611.50 ",3.70%,"$932,091.00 ","140,253",-,no,Financials,Germany,Munich,48.1372,11.5755
+52,BMW Group,2017,"$104,130.00 ",1.80%,"$7,589.40 ",7.40%,"$198,835.00 ","124,729",-1,no,Motor Vehicles & Parts,Germany,Munich,48.1372,11.5755
+66,Siemens,2017,"$88,419.00 ",0.90%,"$6,050.50 ",-27.40%,"$141,271.00 ","351,000",5,no,Industrials,Germany,Munich,48.1372,11.5755
+24,Daimler,2021,"$175,827.30 ",-9%,"$4,132.80 ",55.30%,"$349,684.90 ","288,481",-4,no,Motor Vehicles & Parts,Germany,Stuttgart,48.7761,9.1775
+20,Daimler,2020,"$193,346.00 ",-2.10%,"$2,660.50 ",-68.90%,"$339,456.40 ","298,655",-2,no,Motor Vehicles & Parts,Germany,Stuttgart,48.7761,9.1775
+18,Daimler,2019,"$197,515.30 ",7%,"$8,555.00 ",-27.90%,"$321,890.50 ","298,683",-2,no,Motor Vehicles & Parts,Germany,Stuttgart,48.7761,9.1775
+16,Daimler,2018,"$185,235.00 ",9.30%,"$11,863.90 ",25.80%,"$306,922.40 ","289,321",1,no,Motor Vehicles & Parts,Germany,Stuttgart,48.7761,9.1775
+17,Daimler,2017,"$169,483.00 ",2.20%,"$9,428.40 ",0.90%,"$256,262.00 ","282,488",-1,no,Motor Vehicles & Parts,Germany,Stuttgart,48.7761,9.1775
+10,Volkswagen,2021,"$253,965.00 ",-10%,"$10,103.50 ",-35%,"$608,368.10 ","662,575",-3,no,Motor Vehicles & Parts,Germany,Wolfsburg,52.4231,10.7872
+7,Volkswagen,2020,"$282,760.00 ",1.60%,"$15,542.00 ",8.50%,"$547,810.90 ","671,205",2,no,Motor Vehicles & Parts,Germany,Wolfsburg,52.4231,10.7872
+9,Volkswagen,2019,"$278,341.50 ",7%,"$14,322.50 ",9.30%,"$523,672.30 ","664,496",-2,no,Motor Vehicles & Parts,Germany,Wolfsburg,52.4231,10.7872
+7,Volkswagen,2018,"$260,028.00 ",8.20%,"$13,107.30 ",120.80%,"$506,956.10 ","642,292",-1,no,Motor Vehicles & Parts,Germany,Wolfsburg,52.4231,10.7872
+6,Volkswagen,2017,"$240,264.00 ",1.50%,"$5,937.30 ",-,"$432,116.00 ","626,715",1,no,Motor Vehicles & Parts,Germany,Wolfsburg,52.4231,10.7872
+96,Reliance Industries,2020,"$86,270.00 ",4.80%,"$5,624.90 ",-0.60%,"$154,196.10 ","195,618",10,no,Energy,India,Mumbai,18.9667,72.8333
+87,Enel,2020,"$89,907.00 ",0.70%,"$2,433.30 ",-56.90%,"$192,408.50 ","68,253",2,no,Energy,Italy,Rome,41.8931,12.4828
+83,ENI,2019,"$90,799.80 ",14%,"$4,869.40 ",28%,"$135,300.30 ","31,701",6,no,Energy,Italy,Rome,41.8931,12.4828
+89,Enel,2019,"$89,305.70 ",6%,"$5,651.80 ",32.70%,"$189,079.60 ","69,272",-6,no,Energy,Italy,Rome,41.8931,12.4828
+83,Enel,2018,"$84,134.00 ",7.80%,"$4,259.70 ",49.90%,"$186,888.80 ","62,900",1,no,Energy,Italy,Rome,41.8931,12.4828
+89,ENI,2018,"$80,006.00 ",27.60%,"$3,803.20 ",-,"$138,001.90 ","32,934",43,no,Energy,Italy,Rome,41.8931,12.4828
+84,Enel,2017,"$78,064.00 ",-7%,"$2,842.00 ",16.70%,"$164,096.00 ","62,080",-6,no,Energy,Italy,Rome,41.8931,12.4828
+73,Assicurazioni Generali,2021,"$97,128.90 ",-8%,"$1,987.20 ",-33.50%,"$666,616.10 ","72,644",-7,no,Financials,Italy,Trieste,45.6495,13.7768
+66,Assicurazioni Generali,2020,"$105,921.00 ",20.10%,"$2,988.40 ",9.70%,"$577,557.90 ","71,936",26,no,Financials,Italy,Trieste,45.6495,13.7768
+92,Assicurazioni Generali,2019,"$88,157.40 ",-12%,"$2,725.00 ",14.60%,"$589,590.30 ","70,734",-33,no,Financials,Italy,Trieste,45.6495,13.7768
+59,Assicurazioni Generali,2018,"$100,552.00 ",5.60%,"$2,378.40 ",3.40%,"$644,908.70 ","71,327",-2,no,Financials,Italy,Trieste,45.6495,13.7768
+57,Assicurazioni Generali,2017,"$95,217.00 ",-7.20%,"$2,301.30 ",2.20%,"$549,656.00 ","73,727",-8,no,Financials,Italy,Trieste,45.6495,13.7768
+100,AEON,2021,"$81,227.80 ",3%,($670.50),-372.40%,"$107,764.90 ","282,073",15,no,Food & Drug Stores,Japan,Chiba,35.6,140.1
+87,AEON,2017,"$75,772.00 ",11.80%,$103.90 ,108.60%,"$78,223.00 ","274,760",24,no,Food & Drug Stores,Japan,Chiba,35.6,140.1
+71,Itochu,2021,"$97,753.10 ",-3%,"$3,786.80 ",-17.90%,"$101,070.80 ","148,887",1,no,Wholesalers,Japan,Osaka,34.75,135.4601
+72,Itochu,2020,"$100,522.00 ",-3.90%,"$4,611.00 ",2.10%,"$101,041.90 ","151,430",-7,no,Wholesalers,Japan,Osaka,34.75,135.4601
+65,Itochu,2019,"$104,627.30 ",110%,"$4,514.30 ",24.90%,"$91,250.60 ","139,157",139,no,Wholesalers,Japan,Osaka,34.75,135.4601
+48,Honda Motor,2021,"$124,240.60 ",-10%,"$6,201.60 ",47.90%,"$198,201.00 ","211,374",-9,no,Motor Vehicles & Parts,Japan,Tokyo,35.6897,139.6922
+51,Mitsubishi,2021,"$121,542.70 ",-11%,"$1,627.70 ",-66.90%,"$168,489.80 ","82,997",-9,no,Wholesalers,Japan,Tokyo,35.6897,139.6922
+55,Nippon Telegraph & Telephone,2021,"$112,670.30 ",3%,"$8,642.60 ",9.90%,"$207,644.60 ","324,667",7,no,Telecommunications,Japan,Tokyo,35.6897,139.6922
+58,Japan Post Holdings,2021,"$110,561.30 ",1%,"$3,945.30 ",-11.30%,"$2,692,026.50 ","243,612",2,no,Financials,Japan,Tokyo,35.6897,139.6922
+88,Sony,2021,"$84,893.10 ",12%,"$11,053.60 ",106.40%,"$238,289.70 ","109,700",34,no,Technology,Japan,Tokyo,35.6897,139.6922
+95,Hitachi,2021,"$82,344.60 ",2%,"$4,731.80 ",487.30%,"$107,168.70 ","350,864",11,no,Technology,Japan,Tokyo,35.6897,139.6922
+39,Honda Motor,2020,"$137,332.00 ",-4.20%,"$4,191.80 ",-23.80%,"$189,335.30 ","218,674",-5,no,Motor Vehicles & Parts,Japan,Tokyo,35.6897,139.6922
+42,Mitsubishi,2020,"$135,940.00 ",-6.40%,"$4,924.00 ",-7.60%,"$167,018.20 ","86,098",-9,no,Wholesalers,Japan,Tokyo,35.6897,139.6922
+60,Japan Post Holdings,2020,"$109,915.00 ",-4.60%,"$4,449.30 ",2.90%,"$2,647,343.80 ","245,472",-8,no,Financials,Japan,Tokyo,35.6897,139.6922
+62,Nippon Telegraph & Telephone,2020,"$109,448.00 ",2.10%,"$7,866.90 ",2.10%,"$212,955.80 ","319,039",2,no,Telecommunications,Japan,Tokyo,35.6897,139.6922
+94,SoftBank Group,2020,"$87,440.00 ",1%,"($8,844.30)",-169.50%,"$344,751.50 ","80,909",4,no,Telecommunications,Japan,Tokyo,35.6897,139.6922
+33,Mitsubishi,2019,"$145,243.30 ",113%,"$5,328.00 ",5.40%,"$149,388.30 ","79,994",96,no,Wholesalers,Japan,Tokyo,35.6897,139.6922
+34,Honda Motor,2019,"$143,302.90 ",3%,"$5,504.60 ",-42.40%,"$184,504.60 ","219,722",-4,no,Motor Vehicles & Parts,Japan,Tokyo,35.6897,139.6922
+52,Japan Post Holdings,2019,"$115,220.50 ",-1%,"$4,324.00 ",4%,"$2,585,802.00 ","245,922",-7,no,Financials,Japan,Tokyo,35.6897,139.6922
+64,Nippon Telegraph & Telephone,2019,"$107,146.90 ",1%,"$7,707.50 ",-6.10%,"$201,456.10 ","303,351",-9,no,Telecommunications,Japan,Tokyo,35.6897,139.6922
+98,SoftBank Group,2019,"$86,604.70 ",5%,"$12,727.90 ",35.70%,"$326,163.20 ","76,866",-13,no,Telecommunications,Japan,Tokyo,35.6897,139.6922
+30,Honda Motor,2018,"$138,646.00 ",7.30%,"$9,561.30 ",68%,"$181,972.80 ","215,638",-1,no,Motor Vehicles & Parts,Japan,Tokyo,35.6897,139.6922
+45,Japan Post Holdings,2018,"$116,616.00 ",-5.20%,"$4,157.50 ",-,"$2,733,378.70 ","245,863",-12,no,Financials,Japan,Tokyo,35.6897,139.6922
+55,Nippon Telegraph & Telephone,2018,"$106,500.00 ",1.30%,"$8,210.70 ",11.20%,"$203,853.80 ","282,533",-5,no,Telecommunications,Japan,Tokyo,35.6897,139.6922
+79,Hitachi,2018,"$84,559.00 ",-,"$3,276.20 ",53.50%,"$95,049.40 ","307,275",-8,no,Technology,Japan,Tokyo,35.6897,139.6922
+85,SoftBank Group,2018,"$82,665.00 ",-0.30%,"$9,377.50 ",-28.80%,"$293,242.40 ","74,952",-13,no,Telecommunications,Japan,Tokyo,35.6897,139.6922
+97,Sony,2018,"$77,116.00 ",9.90%,"$4,429.80 ",554.90%,"$179,305.40 ","117,300",8,no,Technology,Japan,Tokyo,35.6897,139.6922
+99,JXTG Holdings,2018,"$76,629.00 ",20.40%,"$3,266.60 ",121.10%,"$79,540.60 ","39,784",28,no,Energy,Japan,Tokyo,35.6897,139.6922
+29,Honda Motor,2017,"$129,198.00 ",6.20%,"$5,690.30 ",98.30%,"$170,165.00 ","211,915",7,no,Motor Vehicles & Parts,Japan,Tokyo,35.6897,139.6922
+33,Japan Post Holdings,2017,"$122,990.00 ",3.60%,($267.40),-107.50%,"$2,631,385.00 ","248,384",4,no,Financials,Japan,Tokyo,35.6897,139.6922
+50,Nippon Telegraph & Telephone,2017,"$105,128.00 ",9.40%,"$7,384.40 ",20.20%,"$190,740.00 ","274,844",10,no,Telecommunications,Japan,Tokyo,35.6897,139.6922
+71,Hitachi,2017,"$84,558.00 ",1.20%,"$2,134.30 ",48.80%,"$86,742.00 ","303,887",8,no,Technology,Japan,Tokyo,35.6897,139.6922
+72,SoftBank Group,2017,"$82,892.00 ",8.40%,"$13,163.40 ",233.30%,"$221,113.00 ","68,402",20,no,Telecommunications,Japan,Tokyo,35.6897,139.6922
+9,Toyota Motor,2021,"$256,721.70 ",-7%,"$21,180.10 ",13.10%,"$562,994.00 ","366,283",1,no,Motor Vehicles & Parts,Japan,Toyota,35.0833,137.1567
+10,Toyota Motor,2020,"$275,288.00 ",1%,"$19,096.20 ",12.40%,"$487,465.90 ","359,542",-,no,Motor Vehicles & Parts,Japan,Toyota,35.0833,137.1567
+10,Toyota Motor,2019,"$272,612.00 ",3%,"$16,982.00 ",-24.60%,"$469,295.60 ","370,870",-4,no,Motor Vehicles & Parts,Japan,Toyota,35.0833,137.1567
+6,Toyota Motor,2018,"$265,172.00 ",4.10%,"$22,510.10 ",33.20%,"$473,133.20 ","369,124",-1,no,Motor Vehicles & Parts,Japan,Toyota,35.0833,137.1567
+5,Toyota Motor,2017,"$254,694.00 ",7.70%,"$16,899.30 ",-12.30%,"$437,575.00 ","364,445",3,no,Motor Vehicles & Parts,Japan,Toyota,35.0833,137.1567
+83,Nissan Motor,2020,"$90,863.00 ",-13%,"($6,173.70)",-314.50%,"$157,089.90 ","144,933",-17,no,Motor Vehicles & Parts,Japan,Yokohama,35.4333,139.6333
+66,Nissan Motor,2019,"$104,390.60 ",-3%,"$2,878.40 ",-57.30%,"$171,251.00 ","148,513",-12,no,Motor Vehicles & Parts,Japan,Yokohama,35.4333,139.6333
+54,Nissan Motor,2018,"$107,868.00 ",-0.30%,"$6,741.30 ",10.10%,"$176,308.70 ","148,872",-10,no,Motor Vehicles & Parts,Japan,Yokohama,35.4333,139.6333
+44,Nissan Motor,2017,"$108,164.00 ",6.50%,"$6,123.40 ",40.30%,"$165,344.00 ","137,250",9,no,Motor Vehicles & Parts,Japan,Yokohama,35.4333,139.6333
+95,Pemex,2019,"$87,403.30 ",18%,"($9,377.90)",-,"$105,384.40 ","131,108",12,no,Energy,Mexico,Mexico City,19.4333,-99.1333
+37,EXOR Group,2021,"$136,185.90 ",-16%,($34.20),-101%,"$211,650.10 ","263,284",-9,no,Financials,Netherlands,Amsterdam,52.3667,4.8833
+28,EXOR Group,2020,"$162,754.00 ",-7%,"$3,417.10 ",115%,"$193,738.60 ","268,979",-4,no,Financials,Netherlands,Amsterdam,52.3667,4.8833
+24,EXOR Group,2019,"$175,009.50 ",8%,"$1,589.70 ",1.30%,"$190,052.30 ","314,790",-5,no,Financials,Netherlands,Amsterdam,52.3667,4.8833
+19,EXOR Group,2018,"$161,677.00 ",4.40%,"$1,569.10 ",140.90%,"$196,655.90 ","307,637",1,no,Financials,Netherlands,Amsterdam,52.3667,4.8833
+20,EXOR Group,2017,"$154,894.00 ",1.50%,$651.30 ,-21.10%,"$186,172.00 ","302,562",-1,no,Financials,Netherlands,Amsterdam,52.3667,4.8833
+94,Airbus Group,2017,"$73,628.00 ",3%,"$1,100.30 ",-63.20%,"$117,204.00 ","133,782",6,no,Aerospace & Defense,Netherlands,Leiden,52.1601,4.497
+19,Royal Dutch Shell,2021,"$183,195.00 ",-48%,"($21,680.00)",-236.90%,"$379,268.00 ","87,000",-14,no,Energy,Netherlands,The Hague,52.0767,4.2986
+5,Royal Dutch Shell,2020,"$352,106.00 ",-11.20%,"$15,842.00 ",-32.20%,"$404,336.00 ","83,000",-2,no,Energy,Netherlands,The Hague,52.0767,4.2986
+3,Royal Dutch Shell,2019,"$396,556.00 ",27%,"$23,352.00 ",79.90%,"$399,194.00 ","81,000",2,no,Energy,Netherlands,The Hague,52.0767,4.2986
+5,Royal Dutch Shell,2018,"$311,870.00 ",29.90%,"$12,977.00 ",183.70%,"$407,097.00 ","84,000",2,no,Energy,Netherlands,The Hague,52.0767,4.2986
+7,Royal Dutch Shell,2017,"$240,033.00 ",-11.80%,"$4,575.00 ",135.90%,"$411,275.00 ","89,000",-2,no,Energy,Netherlands,The Hague,52.0767,4.2986
+87,Royal Ahold Delhaize,2021,"$85,157.90 ",15%,"$1,591.80 ",-19.50%,"$49,798.90 ","249,000",41,no,Food & Drug Stores,Netherlands,Zaandam,52.4417,4.8422
+84,Gazprom,2021,"$87,870.40 ",-26%,"$1,872.00 ",-89.90%,"$315,933.40 ","467,000",-29,no,Energy,Russia,Moscow,55.7558,37.6178
+55,Gazprom,2020,"$118,009.00 ",-10.10%,"$18,593.00 ",-19.90%,"$352,397.70 ","473,800",-13,no,Energy,Russia,Moscow,55.7558,37.6178
+57,Lukoil,2020,"$114,621.00 ",-3.80%,"$9,895.20 ",0.30%,"$95,772.50 ","101,000",-7,no,Energy,Russia,Moscow,55.7558,37.6178
+76,Rosneft Oil,2020,"$96,313.00 ",6.90%,"$10,943.60 ",25.10%,"$208,549.40 ","335,000",10,no,Energy,Russia,Moscow,55.7558,37.6178
+42,Gazprom,2019,"$131,302.00 ",17%,"$23,199.10 ",89.40%,"$300,354.80 ","466,100",7,no,Energy,Russia,Moscow,55.7558,37.6178
+50,Lukoil,2019,"$119,145.00 ",27%,"$9,863.70 ",37.30%,"$82,734.80 ","102,500",13,no,Energy,Russia,Moscow,55.7558,37.6178
+86,Rosneft Oil,2019,"$90,055.00 ",25%,"$8,745.80 ",129.70%,"$189,980.10 ","308,000",29,no,Energy,Russia,Moscow,55.7558,37.6178
+49,Gazprom,2018,"$111,983.00 ",22.50%,"$12,249.90 ",-13.90%,"$316,870.90 ","469,600",14,no,Energy,Russia,Moscow,55.7558,37.6178
+63,Lukoil,2018,"$93,897.00 ",32.40%,"$7,182.30 ",132.40%,"$90,797.50 ","103,600",39,no,Energy,Russia,Moscow,55.7558,37.6178
+63,Gazprom,2017,"$91,382.00 ",-8.10%,"$14,222.60 ",10.40%,"$277,262.00 ","467,400",-7,no,Energy,Russia,Moscow,55.7558,37.6178
+14,Saudi Aramco,2021,"$229,766.20 ",-30%,"$49,286.80 ",-44.10%,"$510,265.50 ","79,800",-8,no,Energy,Saudi Arabia,Dhahran,26.2667,50.15
+6,Saudi Aramco,2020,"$329,784.00 ",-7.30%,"$88,210.90 ",-20.50%,"$398,348.60 ","79,000",-,no,Energy,Saudi Arabia,Dhahran,26.2667,50.15
+6,Saudi Aramco,2019,"$355,905.00 ",35%,"$110,974.50 ",46.90%,"$358,872.90 ","76,418",-,yes,Energy,Saudi Arabia,Dhahran,26.2667,50.15
+31,Trafigura Group,2021,"$146,994.30 ",-14%,"$1,699.20 ",94.90%,"$56,985.60 ","8,619",-4,no,Wholesalers,Singapore,Singapore,1.3,103.8
+27,Trafigura Group,2020,"$171,474.00 ",-5.10%,$871.70 ,2.60%,"$54,151.40 ","5,106",-5,no,Wholesalers,Singapore,Singapore,1.3,103.8
+22,Trafigura Group,2019,"$180,744.10 ",33%,$849.20 ,0.20%,"$53,801.00 ","4,316",10,no,Wholesalers,Singapore,Singapore,1.3,103.8
+32,Trafigura Group,2018,"$136,421.00 ",39.10%,$847.70 ,12.90%,"$48,607.60 ","3,935",22,no,Wholesalers,Singapore,Singapore,1.3,103.8
+54,Trafigura Group,2017,"$98,098.00 ",0.90%,$750.80 ,-39.30%,"$41,230.00 ","4,107",5,no,Wholesalers,Singapore,Singapore,1.3,103.8
+83,Hyundai Motor,2021,"$88,155.70 ",-3%,"$1,207.50 ",-52.80%,"$192,604.90 ","122,814",1,no,Motor Vehicles & Parts,South Korea,Seoul,37.56,126.99
+84,Hyundai Motor,2020,"$90,740.00 ",3.10%,"$2,557.10 ",86.50%,"$168,219.50 ","114,032",10,no,Motor Vehicles & Parts,South Korea,Seoul,37.56,126.99
+97,SK Holdings,2020,"$86,163.00 ",-10.20%,$615.50 ,-69.90%,"$114,175.10 ","108,911",-24,no,Energy,South Korea,Seoul,37.56,126.99
+73,SK Holdings,2019,"$95,904.50 ",15%,"$2,048.00 ",38%,"$107,069.10 ","104,374",11,no,Energy,South Korea,Seoul,37.56,126.99
+94,Hyundai Motor,2019,"$87,999.20 ",3%,"$1,370.80 ",-61.60%,"$161,921.40 ","122,217",-16,no,Motor Vehicles & Parts,South Korea,Seoul,37.56,126.99
+78,Hyundai Motor,2018,"$85,259.00 ",5.60%,"$3,567.60 ",-23.40%,"$166,479.30 ","122,217",-,no,Motor Vehicles & Parts,South Korea,Seoul,37.56,126.99
+84,SK Holdings,2018,"$83,544.00 ",15.10%,"$1,483.90 ",124.90%,"$102,556.90 ","93,000",11,no,Energy,South Korea,Seoul,37.56,126.99
+78,Hyundai Motor,2017,"$80,701.00 ",-0.80%,"$4,659.00 ",-17.90%,"$148,092.00 ","129,315",6,no,Motor Vehicles & Parts,South Korea,Seoul,37.56,126.99
+95,SK Holdings,2017,"$72,579.00 ",107.40%,$659.70 ,-86%,"$85,332.00 ","84,000",199,no,Energy,South Korea,Seoul,37.56,126.99
+15,Samsung Electronics,2021,"$200,734.40 ",2%,"$22,116.40 ",19.90%,"$347,991.80 ","267,937",4,no,Technology,South Korea,Suwon,37.2858,127.01
+19,Samsung Electronics,2020,"$197,705.00 ",-10.80%,"$18,453.30 ",-53.70%,"$304,907.50 ","287,439",-4,no,Technology,South Korea,Suwon,37.2858,127.01
+15,Samsung Electronics,2019,"$221,579.40 ",5%,"$39,895.20 ",9.10%,"$304,165.30 ","309,630",-3,no,Technology,South Korea,Suwon,37.2858,127.01
+12,Samsung Electronics,2018,"$211,940.00 ",21.80%,"$36,575.40 ",89.30%,"$281,905.90 ","320,671",3,no,Technology,South Korea,Suwon,37.2858,127.01
+15,Samsung Electronics,2017,"$173,957.00 ",-2%,"$19,316.50 ",16.80%,"$217,104.00 ","325,000",-2,no,Technology,South Korea,Suwon,37.2858,127.01
+93,Banco Santander,2020,"$88,257.00 ",-2.50%,"$7,292.00 ",-20.90%,"$1,709,072.90 ","189,769",-8,no,Financials,Spain,Madrid,40.4168,3.7038
+85,Banco Santander,2019,"$90,531.90 ",4%,"$9,217.10 ",23.50%,"$1,667,946.80 ","194,015",-8,no,Financials,Spain,Madrid,40.4168,3.7038
+77,Banco Santander,2018,"$87,401.00 ",5.60%,"$7,461.00 ",8.80%,"$1,734,275.90 ","198,960",-4,no,Financials,Spain,Madrid,40.4168,3.7038
+73,Banco Santander,2017,"$82,801.00 ",-2.50%,"$6,860.70 ",3.70%,"$1,412,281.00 ","185,606",2,no,Financials,Spain,Madrid,40.4168,3.7038
+34,Glencore,2021,"$142,338.00 ",-34%,"($1,903.00)",-,"$118,000.00 ","87,822",-17,no,Energy,Switzerland,Baar,47.1956,8.5264
+17,Glencore,2020,"$215,111.00 ",-2.10%,($404.00),-111.90%,"$124,076.00 ","88,246",-1,no,Energy,Switzerland,Baar,47.1956,8.5264
+16,Glencore,2019,"$219,754.00 ",7%,"$3,408.00 ",-41%,"$128,672.00 ","85,504",-2,no,Energy,Switzerland,Baar,47.1956,8.5264
+14,Glencore,2018,"$205,476.00 ",18.20%,"$5,777.00 ",318.90%,"$135,593.00 ","82,681",2,no,Energy,Switzerland,Baar,47.1956,8.5264
+16,Glencore,2017,"$173,883.00 ",2%,"$1,379.00 ",-,"$124,600.00 ","93,123",-2,no,Energy,Switzerland,Baar,47.1956,8.5264
+79,Nestlé,2021,"$89,852.90 ",-4%,"$13,031.10 ",2.70%,"$140,366.70 ","273,000",3,no,"Food, Beverages & Tobacco",Switzerland,Vevey,46.4667,6.85
+82,Nestlé,2020,"$92,107.00 ",-1.50%,"$12,546.20 ",21%,"$123,858.70 ","291,000",-6,no,"Food, Beverages & Tobacco",Switzerland,Vevey,46.4667,6.85
+76,Nestlé,2019,"$93,512.50 ",3%,"$10,364.80 ",42%,"$139,045.10 ","308,000",-7,no,"Food, Beverages & Tobacco",Switzerland,Vevey,46.4667,6.85
+69,Nestlé,2018,"$91,222.00 ",0.40%,"$7,297.40 ",-15.70%,"$133,819.20 ","323,000",-5,no,"Food, Beverages & Tobacco",Switzerland,Vevey,46.4667,6.85
+64,Nestlé,2017,"$90,814.00 ",-1.60%,"$8,659.20 ",-8.10%,"$129,824.00 ","328,000",2,no,"Food, Beverages & Tobacco",Switzerland,Vevey,46.4667,6.85
+22,Hon Hai Precision Industry,2021,"$181,945.40 ",5%,"$3,456.70 ",-7.30%,"$130,845.60 ","878,429",4,no,Technology,Taiwan,New Taipei City,25.0478,121.5319
+26,Hon Hai Precision Industry,2020,"$172,869.00 ",-1.60%,"$3,730.90 ",-12.90%,"$110,790.40 ","757,404",-3,no,Technology,Taiwan,New Taipei City,25.0478,121.5319
+23,Hon Hai Precision Industry,2019,"$175,617.00 ",14%,"$4,281.60 ",-6.10%,"$110,012.90 ","667,680",1,no,Technology,Taiwan,New Taipei City,25.0478,121.5319
+24,Hon Hai Precision Industry,2018,"$154,699.00 ",14.50%,"$4,559.90 ",-1.10%,"$114,528.30 ","803,126",3,no,Technology,Taiwan,New Taipei City,25.0478,121.5319
+27,Hon Hai Precision Industry,2017,"$135,129.00 ",-4.30%,"$4,608.80 ",-0.40%,"$80,436.00 ","726,772",-2,no,Technology,Taiwan,New Taipei City,25.0478,121.5319
+41,Home Depot,2021,"$132,110.00 ",20%,"$12,866.00 ",14.40%,"$70,581.00 ","504,800",18,no,Retailing,U.S.,Atlanta,33.7627,-84.4224
+89,United Parcel Service,2021,"$84,628.00 ",14%,"$1,343.00 ",-69.80%,"$62,408.00 ","408,255",40,no,Transportation,U.S.,Atlanta,33.7627,-84.4224
+59,Home Depot,2020,"$110,225.00 ",1.90%,"$11,242.00 ",1.10%,"$51,236.00 ","415,700",3,no,Retailing,U.S.,Atlanta,33.7627,-84.4224
+62,Home Depot,2019,"$108,203.00 ",7%,"$11,121.00 ",28.90%,"$44,003.00 ","413,000",-5,no,Retailing,U.S.,Atlanta,33.7627,-84.4224
+57,Home Depot,2018,"$100,904.00 ",6.70%,"$8,630.00 ",8.50%,"$44,529.00 ","413,000",2,no,Retailing,U.S.,Atlanta,33.7627,-84.4224
+59,Home Depot,2017,"$94,595.00 ",6.90%,"$7,957.00 ",13.50%,"$42,966.00 ","406,000",10,no,Retailing,U.S.,Atlanta,33.7627,-84.4224
+1,Walmart,2021,"$559,151.00 ",7%,"$13,510.00 ",-9.20%,"$252,496.00 ","2,300,000",-,no,Retailing,U.S.,Bentonville,36.3546,-94.2306
+1,Walmart,2020,"$523,964.00 ",1.90%,"$14,881.00 ",123.10%,"$236,495.00 ","2,200,000",-,no,Retailing,U.S.,Bentonville,36.3546,-94.2306
+1,Walmart,2019,"$514,405.00 ",3%,"$6,670.00 ",-32.40%,"$219,295.00 ","2,200,000",-,no,Retailing,U.S.,Bentonville,36.3546,-94.2306
+1,Walmart,2018,"$500,343.00 ",3%,"$9,862.00 ",-27.70%,"$204,522.00 ","2,300,000",-,no,Retailing,U.S.,Bentonville,36.3546,-94.2306
+1,Walmart,2017,"$485,873.00 ",0.80%,"$13,643.00 ",-7.20%,"$198,825.00 ","2,300,000",-,no,Retailing,U.S.,Bentonville,36.3546,-94.2306
+28,Cigna,2021,"$160,401.00 ",5%,"$8,458.00 ",65.70%,"$155,451.00 ","72,963",4,no,Health Care,U.S.,Bloomfield Hills,40.8098,-74.1868
+32,Cigna,2020,"$153,566.00 ",215.70%,"$5,104.00 ",93.60%,"$155,774.00 ","73,700",197,no,Health Care,U.S.,Bloomfield Hills,40.8098,-74.1868
+95,State Farm Insurance Cos.,2018,"$78,331.00 ",2.90%,"$2,206.50 ",529.90%,"$272,345.20 ","65,664",-10,no,Financials,U.S.,Bloomington,40.4757,-88.9703
+85,State Farm Insurance Cos.,2017,"$76,132.00 ",0.60%,$350.30 ,-94.40%,"$256,030.00 ","68,234",8,no,Financials,U.S.,Bloomington,40.4757,-88.9703
+48,General Electric,2019,"$120,268.00 ",-2%,"($22,355.00)",-,"$309,129.00 ","283,000",-7,no,Industrials,U.S.,Boston,42.6528,-78.7555
+41,General Electric,2018,"$122,274.00 ",3.50%,"($5,786.00)",-165.50%,"$377,945.00 ","313,000",-10,no,Industrials,U.S.,Boston,42.6528,-78.7555
+31,General Electric,2017,"$126,661.00 ",-9.80%,"$8,831.00 ",-,"$365,183.00 ","295,000",-5,no,Industrials,U.S.,Boston,42.6528,-78.7555
+77,Bank of America Corp.,2021,"$93,753.00 ",-18%,"$17,894.00 ",-34.80%,"$2,819,627.00 ","212,505",-19,no,Financials,U.S.,Charlotte,35.208,-80.8304
+58,Bank of America Corp.,2020,"$113,589.00 ",2.70%,"$27,430.00 ",-2.50%,"$2,434,079.00 ","208,131",-,no,Financials,U.S.,Charlotte,35.208,-80.8304
+58,Bank of America Corp.,2019,"$110,584.00 ",10%,"$28,147.00 ",54.40%,"$2,354,507.00 ","204,489",2,no,Financials,U.S.,Charlotte,35.208,-80.8304
+60,Bank of America Corp.,2018,"$100,264.00 ",7%,"$18,232.00 ",1.80%,"$2,281,234.00 ","209,376",2,no,Financials,U.S.,Charlotte,35.208,-80.8304
+62,Bank of America Corp.,2017,"$93,662.00 ",0.70%,"$17,906.00 ",12.70%,"$2,187,702.00 ","208,024",2,no,Financials,U.S.,Charlotte,35.208,-80.8304
+68,Boeing,2019,"$101,127.00 ",8%,"$10,460.00 ",27.60%,"$117,359.00 ","153,000",-4,no,Aerospace & Defense,U.S.,Chicago,41.8373,-87.6862
+64,Boeing,2018,"$93,392.00 ",-1.20%,"$8,197.00 ",67.50%,"$92,333.00 ","140,800",-4,no,Aerospace & Defense,U.S.,Chicago,41.8373,-87.6862
+60,Boeing,2017,"$94,571.00 ",-1.60%,"$4,895.00 ",-5.40%,"$89,997.00 ","150,540",1,no,Aerospace & Defense,U.S.,Chicago,41.8373,-87.6862
+40,Kroger,2021,"$132,498.00 ",8%,"$2,585.00 ",55.80%,"$48,662.00 ","465,000",11,no,Food & Drug Stores,U.S.,Cincinnati,39.1413,-84.5061
+51,Kroger,2020,"$122,286.00 ",0.90%,"$1,659.00 ",-46.70%,"$45,256.00 ","435,000",-4,no,Food & Drug Stores,U.S.,Cincinnati,39.1413,-84.5061
+47,Kroger,2019,"$121,162.00 ",-1%,"$3,110.00 ",63.10%,"$38,118.00 ","453,000",-8,no,Food & Drug Stores,U.S.,Cincinnati,39.1413,-84.5061
+39,Kroger,2018,"$122,662.00 ",6.40%,"$1,907.00 ",-3.40%,"$37,197.00 ","449,000",1,no,Food & Drug Stores,U.S.,Cincinnati,39.1413,-84.5061
+40,Kroger,2017,"$115,337.00 ",5%,"$1,975.00 ",-3.10%,"$36,505.00 ","443,000",2,no,Food & Drug Stores,U.S.,Cincinnati,39.1413,-84.5061
+98,Procter & Gamble,2017,"$71,726.00 ",-8.90%,"$10,508.00 ",49.30%,"$127,136.00 ","105,000",-12,no,Household Products,U.S.,Cincinnati,39.1413,-84.5061
+6,Apple,2021,"$274,515.00 ",6%,"$57,411.00 ",3.90%,"$323,888.00 ","147,000",6,no,Technology,U.S.,Cupertino,37.3168,-122.0465
+12,Apple,2020,"$260,174.00 ",-2%,"$55,256.00 ",-7.20%,"$338,516.00 ","137,000",-1,no,Technology,U.S.,Cupertino,37.3168,-122.0465
+11,Apple,2019,"$265,595.00 ",16%,"$59,531.00 ",23.10%,"$365,725.00 ","132,000",-,no,Technology,U.S.,Cupertino,37.3168,-122.0465
+11,Apple,2018,"$229,234.00 ",6.30%,"$48,351.00 ",5.80%,"$375,319.00 ","123,000",-2,no,Technology,U.S.,Cupertino,37.3168,-122.0465
+9,Apple,2017,"$215,639.00 ",-7.70%,"$45,687.00 ",-14.40%,"$321,686.00 ","116,000",-,no,Technology,U.S.,Cupertino,37.3168,-122.0465
+26,AT&T,2021,"$171,760.00 ",-5%,"($5,176.00)",-137.20%,"$525,761.00 ","230,760",-4,no,Telecommunications,U.S.,Dallas,32.7936,-96.7662
+22,AT&T,2020,"$181,193.00 ",6.10%,"$13,903.00 ",-28.20%,"$551,669.00 ","247,800",3,no,Telecommunications,U.S.,Dallas,32.7936,-96.7662
+25,AT&T,2019,"$170,756.00 ",6%,"$19,370.00 ",-34.20%,"$531,864.00 ","268,220",-5,no,Telecommunications,U.S.,Dallas,32.7936,-96.7662
+20,AT&T,2018,"$160,546.00 ",-2%,"$29,450.00 ",127%,"$444,097.00 ","254,000",-1,no,Telecommunications,U.S.,Dallas,32.7936,-96.7662
+19,AT&T,2017,"$163,786.00 ",11.60%,"$12,976.00 ",-2.80%,"$403,821.00 ","268,540",4,no,Telecommunications,U.S.,Dallas,32.7936,-96.7662
+47,Ford Motor,2021,"$127,144.00 ",-18%,"($1,279.00)",-2821.30%,"$267,261.00 ","186,000",-16,no,Motor Vehicles & Parts,U.S.,Dearborn,42.3127,-83.2129
+31,Ford Motor,2020,"$155,900.00 ",-2.80%,$47.00 ,-98.70%,"$258,537.00 ","190,000",-1,no,Motor Vehicles & Parts,U.S.,Dearborn,42.3127,-83.2129
+30,Ford Motor,2019,"$160,338.00 ",2%,"$3,677.00 ",-51.60%,"$256,540.00 ","199,000",-8,no,Motor Vehicles & Parts,U.S.,Dearborn,42.3127,-83.2129
+22,Ford Motor,2018,"$156,776.00 ",3.30%,"$7,602.00 ",65.40%,"$257,808.00 ","202,000",-1,no,Motor Vehicles & Parts,U.S.,Dearborn,42.3127,-83.2129
+21,Ford Motor,2017,"$151,800.00 ",1.50%,"$4,596.00 ",-37.70%,"$237,951.00 ","201,000",-,no,Motor Vehicles & Parts,U.S.,Dearborn,42.3127,-83.2129
+36,Walgreens Boots Alliance,2021,"$139,537.00 ",2%,$456.00 ,-88.50%,"$87,174.00 ","277,000",5,no,Food & Drug Stores,U.S.,Deerfield,42.1654,-87.8516
+41,Walgreens Boots Alliance,2020,"$136,866.00 ",4.10%,"$3,982.00 ",-20.70%,"$67,598.00 ","287,000",-1,no,Food & Drug Stores,U.S.,Deerfield,42.1654,-87.8516
+40,Walgreens Boots Alliance,2019,"$131,537.00 ",11%,"$5,024.00 ",23.20%,"$68,124.00 ","299,000",3,no,Food & Drug Stores,U.S.,Deerfield,42.1654,-87.8516
+43,Walgreens Boots Alliance,2018,"$118,214.00 ",0.70%,"$4,078.00 ",-2.30%,"$66,009.00 ","290,000",-6,no,Food & Drug Stores,U.S.,Deerfield,42.1654,-87.8516
+37,Walgreens Boots Alliance,2017,"$117,351.00 ",13.40%,"$4,173.00 ",-1.10%,"$72,688.00 ","300,000",10,no,Food & Drug Stores,U.S.,Deerfield,42.1654,-87.8516
+49,General Motors,2021,"$122,485.00 ",-11%,"$6,427.00 ",-4.50%,"$235,194.00 ","155,000",-9,no,Motor Vehicles & Parts,U.S.,Detroit,42.3834,-83.1024
+40,General Motors,2020,"$137,237.00 ",-6.70%,"$6,732.00 ",-16%,"$228,037.00 ","164,000",-8,no,Motor Vehicles & Parts,U.S.,Detroit,42.3834,-83.1024
+32,General Motors,2019,"$147,049.00 ",-7%,"$8,014.00 ",-,"$227,339.00 ","173,000",-11,no,Motor Vehicles & Parts,U.S.,Detroit,42.3834,-83.1024
+21,General Motors,2018,"$157,311.00 ",-5.50%,"($3,864.00)",-141%,"$212,482.00 ","180,000",-3,no,Motor Vehicles & Parts,U.S.,Detroit,42.3834,-83.1024
+18,General Motors,2017,"$166,380.00 ",9.20%,"$9,427.00 ",-2.70%,"$221,690.00 ","225,000",2,no,Motor Vehicles & Parts,U.S.,Detroit,42.3834,-83.1024
+30,Cardinal Health,2021,"$152,922.00 ",5%,"($3,696.00)",-371.20%,"$40,766.00 ","48,000",7,no,Wholesalers,U.S.,Dublin,40.1112,-83.1454
+37,Cardinal Health,2020,"$145,534.00 ",6.40%,"$1,363.00 ",432.40%,"$40,963.00 ","49,500",1,no,Wholesalers,U.S.,Dublin,40.1112,-83.1454
+38,Cardinal Health,2019,"$136,809.00 ",5%,$256.00 ,-80.10%,"$39,951.00 ","50,200",-4,no,Wholesalers,U.S.,Dublin,40.1112,-83.1454
+34,Cardinal Health,2018,"$129,976.00 ",6.90%,"$1,288.00 ",-9.70%,"$40,112.00 ","40,400",1,no,Wholesalers,U.S.,Dublin,40.1112,-83.1454
+35,Cardinal Health,2017,"$121,546.00 ",18.50%,"$1,427.00 ",17.40%,"$34,122.00 ","37,300",15,no,Wholesalers,U.S.,Dublin,40.1112,-83.1454
+81,Marathon Petroleum,2021,"$88,952.00 ",-29%,"($9,826.00)",-472.60%,"$85,158.00 ","57,900",-33,no,Energy,U.S.,Findlay,41.0467,-83.6379
+48,Marathon Petroleum,2020,"$124,813.00 ",28.50%,"$2,637.00 ",-5.10%,"$98,556.00 ","60,910",24,no,Energy,U.S.,Findlay,41.0467,-83.6379
+72,Marathon Petroleum,2019,"$97,102.00 ",44%,"$2,780.00 ",-19%,"$92,940.00 ","60,350",59,no,Energy,U.S.,Findlay,41.0467,-83.6379
+61,Phillips 66,2020,"$109,559.00 ",-4.10%,"$3,076.00 ",-45%,"$58,720.00 ","14,500",-7,no,Energy,U.S.,Houston,29.7863,-95.3889
+54,Phillips 66,2019,"$114,217.00 ",25%,"$5,595.00 ",9.60%,"$54,302.00 ","14,200",13,no,Energy,U.S.,Houston,29.7863,-95.3889
+67,Phillips 66,2018,"$91,568.00 ",26.50%,"$5,106.00 ",228.40%,"$54,371.00 ","14,600",29,no,Energy,U.S.,Houston,29.7863,-95.3889
+96,Phillips 66,2017,"$72,396.00 ",-16.90%,"$1,555.00 ",-63.20%,"$51,653.00 ","14,800",-22,no,Energy,U.S.,Houston,29.7863,-95.3889
+50,Anthem,2021,"$121,867.00 ",17%,"$4,572.00 ",-4.90%,"$86,615.00 ","83,400",18,no,Health Care,U.S.,Indianapolis,39.7771,-86.1458
+68,Anthem,2020,"$104,213.00 ",13.10%,"$4,807.00 ",28.20%,"$77,453.00 ","70,600",11,no,Health Care,U.S.,Indianapolis,39.7771,-86.1458
+79,Anthem,2019,"$92,105.00 ",2%,"$3,750.00 ",-2.40%,"$71,571.00 ","63,900",-9,no,Health Care,U.S.,Indianapolis,39.7771,-86.1458
+70,Anthem,2018,"$90,039.00 ",6.10%,"$3,842.80 ",55.60%,"$70,540.00 ","56,000",-,no,Health Care,U.S.,Indianapolis,39.7771,-86.1458
+70,Anthem,2017,"$84,863.00 ",7.20%,"$2,469.80 ",-3.50%,"$65,083.00 ","53,000",15,no,Health Care,U.S.,Indianapolis,39.7771,-86.1458
+12,McKesson,2021,"$238,228.00 ",3%,"($4,539.00)",-604.30%,"$65,015.00 ","67,500",4,no,Wholesalers,U.S.,Irving,32.8584,-96.9702
+23,Exxon Mobil,2021,"$181,502.00 ",-32%,"($22,440.00)",-256.50%,"$332,750.00 ","72,000",-12,no,Energy,U.S.,Irving,32.8584,-96.9702
+11,Exxon Mobil,2020,"$264,938.00 ",-8.70%,"$14,340.00 ",-31.20%,"$362,597.00 ","74,900",-3,no,Energy,U.S.,Irving,32.8584,-96.9702
+16,McKesson,2020,"$231,051.00 ",7.80%,$900.00 ,2547.10%,"$61,247.00 ","70,000",1,no,Wholesalers,U.S.,Irving,32.8584,-96.9702
+8,Exxon Mobil,2019,"$290,212.00 ",19%,"$20,840.00 ",5.70%,"$346,196.00 ","71,000",1,no,Energy,U.S.,Irving,32.8584,-96.9702
+17,McKesson,2019,"$214,319.00 ",3%,$34.00 ,-49.30%,"$59,672.00 ","70,000",-4,no,Wholesalers,U.S.,Irving,32.8584,-96.9702
+9,Exxon Mobil,2018,"$244,363.00 ",17.40%,"$19,710.00 ",151.40%,"$348,691.00 ","71,200",1,no,Energy,U.S.,Irving,32.8584,-96.9702
+13,McKesson,2018,"$208,357.00 ",4.90%,$67.00 ,-98.70%,"$60,381.00 ","68,000",-2,no,Wholesalers,U.S.,Irving,32.8584,-96.9702
+10,Exxon Mobil,2017,"$205,004.00 ",-16.70%,"$7,840.00 ",-51.50%,"$330,314.00 ","72,700",-4,no,Energy,U.S.,Irving,32.8584,-96.9702
+11,McKesson,2017,"$198,533.00 ",3.10%,"$5,070.00 ",124.50%,"$60,969.00 ","64,500",1,no,Wholesalers,U.S.,Irving,32.8584,-96.9702
+27,Costco Wholesale,2021,"$166,761.00 ",9%,"$4,002.00 ",9.40%,"$55,556.00 ","214,500",6,no,Retailing,U.S.,Issaquah,47.544,-122.0471
+33,Costco Wholesale,2020,"$152,703.00 ",7.90%,"$3,659.00 ",16.80%,"$45,400.00 ","201,500",2,no,Retailing,U.S.,Issaquah,47.544,-122.0471
+35,Costco Wholesale,2019,"$141,576.00 ",10%,"$3,134.00 ",17%,"$40,830.00 ","194,000",-,no,Retailing,U.S.,Issaquah,47.544,-122.0471
+35,Costco Wholesale,2018,"$129,025.00 ",8.70%,"$2,679.00 ",14%,"$36,347.00 ","182,000",1,no,Retailing,U.S.,Issaquah,47.544,-122.0471
+36,Costco Wholesale,2017,"$118,719.00 ",2.20%,"$2,350.00 ",-1.10%,"$33,163.00 ","172,000",2,no,Retailing,U.S.,Issaquah,47.544,-122.0471
+86,Facebook,2021,"$85,965.00 ",22%,"$29,146.00 ",57.70%,"$159,316.00 ","58,604",58,no,Technology,U.S.,Menlo Park,37.4686,-122.1672
+78,Target,2021,"$93,561.00 ",20%,"$4,368.00 ",33.10%,"$51,248.00 ","409,000",39,no,Retailing,U.S.,Minneapolis,44.9635,-93.2678
+8,UnitedHealth Group,2021,"$257,141.00 ",6%,"$15,403.00 ",11.30%,"$197,289.00 ","330,000",7,no,Health Care,U.S.,Minnetonka,44.9322,-93.4598
+15,UnitedHealth Group,2020,"$242,155.00 ",7%,"$13,839.00 ",15.50%,"$173,889.00 ","325,000",-1,no,Health Care,U.S.,Minnetonka,44.9322,-93.4598
+14,UnitedHealth Group,2019,"$226,247.00 ",13%,"$11,986.00 ",13.50%,"$152,221.00 ","300,000",1,no,Health Care,U.S.,Minnetonka,44.9322,-93.4598
+15,UnitedHealth Group,2018,"$201,159.00 ",8.80%,"$10,558.00 ",50.50%,"$139,058.00 ","260,000",-2,no,Health Care,U.S.,Minnetonka,44.9322,-93.4598
+13,UnitedHealth Group,2017,"$184,840.00 ",17.70%,"$7,017.00 ",20.70%,"$122,810.00 ","230,000",4,no,Health Care,U.S.,Minnetonka,44.9322,-93.4598
+80,Lowe's,2021,"$89,597.00 ",24%,"$5,835.00 ",36.30%,"$46,735.00 ","280,000",57,no,Retailing,U.S.,Mooresville,35.5849,-80.8265
+21,Alphabet,2021,"$182,527.00 ",13%,"$40,269.00 ",17.30%,"$319,616.00 ","135,301",8,no,Technology,U.S.,Mountain View,37.4,-122.0796
+29,Alphabet,2020,"$161,857.00 ",18.30%,"$34,343.00 ",11.70%,"$275,909.00 ","118,899",8,no,Technology,U.S.,Mountain View,37.4,-122.0796
+37,Alphabet,2019,"$136,819.00 ",23%,"$30,736.00 ",142.70%,"$232,792.00 ","98,771",15,no,Technology,U.S.,Mountain View,37.4,-122.0796
+52,Alphabet,2018,"$110,855.00 ",22.80%,"$12,662.00 ",-35%,"$197,295.00 ","80,110",13,no,Technology,U.S.,Mountain View,37.4,-122.0796
+65,Alphabet,2017,"$90,272.00 ",20.40%,"$19,478.00 ",19.10%,"$167,497.00 ","72,053",29,no,Technology,U.S.,Mountain View,37.4,-122.0796
+94,Johnson & Johnson,2021,"$82,584.00 ",1%,"$14,714.00 ",-2.70%,"$174,894.00 ","134,500",10,no,Health Care,U.S.,New Brunswick,40.487,-74.445
+100,Johnson & Johnson,2018,"$76,450.00 ",6.30%,"$1,300.00 ",-92.10%,"$157,303.00 ","134,000",-3,no,Health Care,U.S.,New Brunswick,40.487,-74.445
+97,Johnson & Johnson,2017,"$71,890.00 ",2.60%,"$16,540.00 ",7.30%,"$141,208.00 ","126,400",6,no,Health Care,U.S.,New Brunswick,40.487,-74.445
+43,JPMorgan Chase & Co.,2021,"$129,503.00 ",-9%,"$29,131.00 ",-20%,"$3,386,071.00 ","255,351",-5,no,Financials,U.S.,New York,40.6943,-73.9249
+45,Verizon,2021,"$128,292.00 ",-3%,"$17,801.00 ",-7.60%,"$316,481.00 ","132,200",-1,no,Telecommunications,U.S.,New York,40.6943,-73.9249
+82,Citigroup,2021,"$88,839.00 ",-14%,"$11,047.00 ",-43.10%,"$2,260,090.00 ","210,153",-12,no,Financials,U.S.,New York,40.6943,-73.9249
+38,JPMorgan Chase & Co.,2020,"$142,422.00 ",8.40%,"$36,431.00 ",12.20%,"$2,687,379.00 ","256,981",3,no,Financials,U.S.,New York,40.6943,-73.9249
+44,Verizon,2020,"$131,868.00 ",0.80%,"$19,265.00 ",24.10%,"$291,727.00 ","135,000",-1,no,Telecommunications,U.S.,New York,40.6943,-73.9249
+70,Citigroup,2020,"$103,449.00 ",6.50%,"$19,401.00 ",7.50%,"$1,951,158.00 ","200,000",1,no,Financials,U.S.,New York,40.6943,-73.9249
+41,JPMorgan Chase & Co.,2019,"$131,412.00 ",15%,"$32,474.00 ",32.90%,"$2,622,532.00 ","256,105",6,no,Financials,U.S.,New York,40.6943,-73.9249
+43,Verizon,2019,"$130,863.00 ",4%,"$15,528.00 ",-48.40%,"$264,829.00 ","144,500",-6,no,Telecommunications,U.S.,New York,40.6943,-73.9249
+71,Citigroup,2019,"$97,120.00 ",10%,"$18,045.00 ",-,"$1,917,383.00 ","204,000",5,no,Financials,U.S.,New York,40.6943,-73.9249
+37,Verizon,2018,"$126,034.00 ",-,"$30,101.00 ",129.30%,"$257,143.00 ","155,400",-5,no,Telecommunications,U.S.,New York,40.6943,-73.9249
+47,JPMorgan Chase & Co.,2018,"$113,899.00 ",8%,"$24,441.00 ",-1.20%,"$2,533,600.00 ","252,539",1,no,Financials,U.S.,New York,40.6943,-73.9249
+76,Citigroup,2018,"$87,966.00 ",6.80%,"($6,798.00)",-145.60%,"$1,842,465.00 ","209,000",-2,no,Financials,U.S.,New York,40.6943,-73.9249
+92,IBM,2018,"$79,139.00 ",-1%,"$5,753.00 ",-51.50%,"$125,356.00 ","397,800",-11,no,Technology,U.S.,New York,40.6943,-73.9249
+32,Verizon,2017,"$125,980.00 ",-4.30%,"$13,127.00 ",-26.60%,"$244,180.00 ","160,900",-2,no,Telecommunications,U.S.,New York,40.6943,-73.9249
+48,JPMorgan Chase & Co.,2017,"$105,486.00 ",4.40%,"$24,733.00 ",1.20%,"$2,490,972.00 ","243,355",7,no,Financials,U.S.,New York,40.6943,-73.9249
+74,Citigroup,2017,"$82,386.00 ",-6.70%,"$14,912.00 ",-13.50%,"$1,792,077.00 ","219,000",-4,no,Financials,U.S.,New York,40.6943,-73.9249
+81,IBM,2017,"$79,919.00 ",-3.10%,"$11,872.00 ",-10%,"$117,470.00 ","414,400",1,no,Technology,U.S.,New York,40.6943,-73.9249
+11,Berkshire Hathaway,2021,"$245,510.00 ",-4%,"$42,521.00 ",-47.80%,"$873,729.00 ","360,000",3,no,Financials,U.S.,Omaha,41.2627,-96.0522
+14,Berkshire Hathaway,2020,"$254,616.00 ",2.70%,"$81,417.00 ",1924.80%,"$817,729.00 ","391,500",-2,no,Financials,U.S.,Omaha,41.2627,-96.0522
+12,Berkshire Hathaway,2019,"$247,837.00 ",2%,"$4,021.00 ",-91.10%,"$707,794.00 ","389,000",-2,no,Financials,U.S.,Omaha,41.2627,-96.0522
+10,Berkshire Hathaway,2018,"$242,137.00 ",8.30%,"$44,940.00 ",86.70%,"$702,095.00 ","377,000",-2,no,Financials,U.S.,Omaha,41.2627,-96.0522
+8,Berkshire Hathaway,2017,"$223,604.00 ",6.10%,"$24,074.00 ",-,"$620,854.00 ","367,700",3,no,Financials,U.S.,Omaha,41.2627,-96.0522
+17,AmerisourceBergen,2021,"$189,893.90 ",6%,"($3,408.70)",-498.50%,"$44,274.80 ","21,500",6,no,Wholesalers,U.S.,Pennsylvania,39.8226,-75.8742
+23,AmerisourceBergen,2020,"$179,589.00 ",6.90%,$855.40 ,-48.40%,"$39,172.00 ","21,500",4,no,Wholesalers,U.S.,Pennsylvania,39.8226,-75.8742
+27,AmerisourceBergen,2019,"$167,939.60 ",10%,"$1,658.40 ",355%,"$37,669.80 ","20,500",-2,no,Wholesalers,U.S.,Pennsylvania,39.8226,-75.8742
+25,AmerisourceBergen,2018,"$153,144.00 ",4.30%,$364.50 ,-74.50%,"$35,316.50 ","19,500",-2,no,Wholesalers,U.S.,Pennsylvania,39.8226,-75.8742
+23,AmerisourceBergen,2017,"$146,850.00 ",8%,"$1,427.90 ",-,"$33,656.00 ","18,500",5,no,Wholesalers,U.S.,Pennsylvania,39.8226,-75.8742
+64,Comcast,2021,"$103,564.00 ",-5%,"$10,534.00 ",-19.30%,"$273,869.00 ","168,000",-1,no,Telecommunications,U.S.,Philadelphia,40.0077,-75.1339
+63,Comcast,2020,"$108,942.00 ",15.30%,"$13,057.00 ",11.30%,"$263,414.00 ","190,000",12,no,Telecommunications,U.S.,Philadelphia,40.0077,-75.1339
+75,Comcast,2019,"$94,507.00 ",12%,"$11,731.00 ",-48.40%,"$251,684.00 ","184,000",5,no,Telecommunications,U.S.,Philadelphia,40.0077,-75.1339
+80,Comcast,2018,"$84,526.00 ",5.10%,"$22,714.00 ",161.20%,"$186,949.00 ","164,000",-1,no,Telecommunications,U.S.,Philadelphia,40.0077,-75.1339
+79,Comcast,2017,"$80,403.00 ",7.90%,"$8,695.00 ",6.50%,"$180,500.00 ","159,000",17,no,Telecommunications,U.S.,Philadelphia,40.0077,-75.1339
+33,Microsoft,2021,"$143,015.00 ",14%,"$44,281.00 ",12.80%,"$301,311.00 ","163,000",14,no,Technology,U.S.,Redmond,47.6762,-122.1169
+47,Microsoft,2020,"$125,843.00 ",14%,"$39,240.00 ",136.80%,"$286,556.00 ","144,000",13,no,Technology,U.S.,Redmond,47.6762,-122.1169
+60,Microsoft,2019,"$110,360.00 ",23%,"$16,571.00 ",-21.80%,"$258,848.00 ","131,000",11,no,Technology,U.S.,Redmond,47.6762,-122.1169
+71,Microsoft,2018,"$89,950.00 ",5.40%,"$21,204.00 ",26.20%,"$241,086.00 ","124,000",-2,no,Technology,U.S.,Redmond,47.6762,-122.1169
+69,Microsoft,2017,"$85,320.00 ",-8.80%,"$16,798.00 ",37.80%,"$193,694.00 ","114,000",-6,no,Technology,U.S.,Redmond,47.6762,-122.1169
+71,Valero Energy,2020,"$102,729.00 ",-7.80%,"$2,422.00 ",-22.40%,"$53,864.00 ","10,222",-14,no,Energy,U.S.,San Antonio,29.4658,-98.5253
+57,Valero Energy,2019,"$111,407.00 ",26%,"$3,122.00 ",-23.20%,"$50,155.00 ","10,261",17,no,Energy,U.S.,San Antonio,29.4658,-98.5253
+74,Valero Energy,2018,"$88,407.00 ",26%,"$4,065.00 ",77.60%,"$50,158.00 ","10,015",32,no,Energy,U.S.,San Antonio,29.4658,-98.5253
+69,Wells Fargo,2020,"$103,915.00 ",2.80%,"$19,549.00 ",-12.70%,"$1,927,555.00 ","259,800",-,no,Financials,U.S.,San Francisco,37.7562,-122.443
+69,Wells Fargo,2019,"$101,060.00 ",3%,"$22,393.00 ",0.90%,"$1,895,883.00 ","258,700",-7,no,Financials,U.S.,San Francisco,37.7562,-122.443
+62,Wells Fargo,2018,"$97,741.00 ",3.80%,"$22,183.00 ",1.10%,"$1,951,757.00 ","262,700",-1,no,Financials,U.S.,San Francisco,37.7562,-122.443
+61,Wells Fargo,2017,"$94,176.00 ",4.60%,"$21,938.00 ",-4.20%,"$1,930,115.00 ","269,100",6,no,Financials,U.S.,San Francisco,37.7562,-122.443
+75,Chevron,2021,"$94,692.00 ",-35%,"($5,543.00)",-289.60%,"$239,790.00 ","47,736",-39,no,Energy,U.S.,San Ramon,37.7625,-121.9365
+36,Chevron,2020,"$146,516.00 ",-11.90%,"$2,924.00 ",-80.30%,"$237,428.00 ","48,200",-8,no,Energy,U.S.,San Ramon,37.7625,-121.9365
+28,Chevron,2019,"$166,339.00 ",24%,"$14,824.00 ",61.20%,"$253,863.00 ","48,600",5,no,Energy,U.S.,San Ramon,37.7625,-121.9365
+33,Chevron,2018,"$134,533.00 ",25.10%,"$9,195.00 ",-,"$253,806.00 ","51,900",12,no,Energy,U.S.,San Ramon,37.7625,-121.9365
+45,Chevron,2017,"$107,567.00 ",-18%,($497.00),-110.80%,"$260,078.00 ","55,200",-14,no,Energy,U.S.,San Ramon,37.7625,-121.9365
+3,Amazon,2021,"$386,064.00 ",38%,"$21,331.00 ",84.10%,"$321,195.00 ","1,298,000",6,no,Technology,U.S.,Seattle,47.6211,-122.3244
+9,Amazon,2020,"$280,522.00 ",20.50%,"$11,588.00 ",15%,"$225,248.00 ","798,000",4,no,Technology,U.S.,Seattle,47.6211,-122.3244
+13,Amazon,2019,"$232,887.00 ",31%,"$10,073.00 ",232.10%,"$162,648.00 ","647,500",5,no,Technology,U.S.,Seattle,47.6211,-122.3244
+18,Amazon,2018,"$177,866.00 ",30.80%,"$3,033.00 ",27.90%,"$131,310.00 ","566,000",8,no,Technology,U.S.,Seattle,47.6211,-122.3244
+26,Amazon,2017,"$135,987.00 ",27.10%,"$2,371.00 ",297.80%,"$83,402.00 ","341,400",18,no,Technology,U.S.,Seattle,47.6211,-122.3244
+57,Centene,2021,"$111,115.00 ",49%,"$1,808.00 ",36.90%,"$68,719.00 ","71,300",70,no,Health Care,U.S.,St. Louis,38.6358,-90.2451
+61,Express Scripts Holding,2018,"$100,065.00 ",-0.20%,"$4,517.40 ",32.70%,"$54,255.80 ","26,600",-8,no,Health Care,U.S.,St. Louis,38.6358,-90.2451
+53,Express Scripts Holding,2017,"$100,288.00 ",-1.40%,"$3,404.40 ",37.50%,"$51,745.00 ","25,600",-1,no,Health Care,U.S.,St. Louis,38.6358,-90.2451
+76,Dell Technologies,2021,"$94,224.00 ",2%,"$3,250.00 ",-29.60%,"$123,415.00 ","158,000",5,no,Technology,U.S.,Texas,29.4128,-94.9658
+81,Dell Technologies,2020,"$92,154.00 ",1.70%,"$4,616.00 ",-,"$118,861.00 ","165,000",3,no,Technology,U.S.,Texas,29.4128,-94.9658
+84,Dell Technologies,2019,"$90,621.00 ",15%,"($2,310.00)",-,"$111,820.00 ","157,000",9,no,Technology,U.S.,Texas,29.4128,-94.9658
+93,Dell Technologies,2018,"$78,660.00 ",21.40%,"($3,728.00)",-,"$122,281.00 ","145,000",31,no,Technology,U.S.,Texas,29.4128,-94.9658
+62,Fannie Mae,2021,"$106,437.00 ",-12%,"$11,805.00 ",-16.60%,"$3,985,749.00 ","7,700",-9,no,Financials,U.S.,Washington,38.9072,77.0369
+53,Fannie Mae,2020,"$120,304.00 ",0.20%,"$14,160.00 ",-11.30%,"$3,503,319.00 ","7,500",-4,no,Financials,U.S.,Washington,38.9072,77.0369
+49,Fannie Mae,2019,"$120,101.00 ",7%,"$15,959.00 ",547.90%,"$3,418,318.00 ","7,400",-1,no,Financials,U.S.,Washington,38.9072,77.0369
+48,Fannie Mae,2018,"$112,394.00 ",4.90%,"$2,463.00 ",-80%,"$3,345,529.00 ","7,200",-2,no,Financials,U.S.,Washington,38.9072,77.0369
+46,Fannie Mae,2017,"$107,162.00 ",-2.90%,"$12,313.00 ",12.40%,"$3,287,968.00 ","7,000",-6,no,Financials,U.S.,Washington,38.9072,77.0369
+99,U.S. Postal Service,2017,"$71,498.00 ",3.70%,"($5,591.00)",-,"$25,219.00 ","574,349",8,no,Transportation,U.S.,Washington,38.9072,77.0369
+100,DuPont,2019,"$85,977.00 ",37%,"$3,844.00 ",163.30%,"$188,030.00 ","98,000",47,no,Chemicals,U.S.,Wilmington,51.4309,0.1876
+7,CVS Health,2021,"$268,706.00 ",5%,"$7,179.00 ",8.20%,"$230,715.00 ","256,500",6,no,Health Care,U.S.,Woonsocket,42.001,-71.4993
+13,CVS Health,2020,"$256,776.00 ",32%,"$6,634.00 ",-,"$222,449.00 ","290,000",6,no,Health Care,U.S.,Woonsocket,42.001,-71.4993
+19,CVS Health,2019,"$194,579.00 ",5%,($594.00),-109%,"$196,456.00 ","295,000",-2,no,Health Care,U.S.,Woonsocket,42.001,-71.4993
+17,CVS Health,2018,"$184,765.00 ",4.10%,"$6,622.00 ",24.50%,"$95,131.00 ","203,000",-3,no,Health Care,U.S.,Woonsocket,42.001,-71.4993
+14,CVS Health,2017,"$177,526.00 ",15.80%,"$5,317.00 ",1.50%,"$94,462.00 ","204,000",4,no,Health Care,U.S.,Woonsocket,42.001,-71.4993
+77,General Electric,2020,"$95,214.00 ",-20.80%,"($4,979.00)",-,"$266,048.00 ","205,000",-29,no,Industrials,United Kingdom,Boston,51.5072,0.1276
+18,BP,2021,"$183,500.00 ",-35%,"($20,305.00)",-604.30%,"$267,654.00 ","68,100",-10,no,Energy,United Kingdom,London,51.5072,0.1276
+8,BP,2020,"$282,616.00 ",-7%,"$4,026.00 ",-57.10%,"$295,194.00 ","72,500",-1,no,Energy,United Kingdom,London,51.5072,0.1276
+73,HSBC Holdings,2020,"$98,673.00 ",14.60%,"$7,383.00 ",-46.20%,"$2,715,152.00 ","235,351",26,no,Financials,United Kingdom,London,51.5072,0.1276
+80,Prudential PLC,2020,"$93,736.00 ",181.90%,$783.00 ,-80.50%,"$454,214.00 ","18,125",292,no,Financials,United Kingdom,London,51.5072,0.1276
+85,Legal & General Group,2020,"$90,615.00 ",-,"$2,340.30 ",-4%,"$742,524.00 ","8,542",-,yes,Financials,United Kingdom,London,51.5072,0.1276
+88,Aviva,2020,"$89,647.00 ",277.60%,"$3,251.40 ",55.50%,"$609,327.00 ","31,181",-,yes,Financials,United Kingdom,London,51.5072,0.1276
+7,BP,2019,"$303,738.00 ",24%,"$9,383.00 ",176.90%,"$282,176.00 ","73,000",1,no,Energy,United Kingdom,London,51.5072,0.1276
+99,HSBC Holdings,2019,"$86,131.00 ",8%,"$13,727.00 ",27.10%,"$2,558,124.00 ","235,217",-9,no,Financials,United Kingdom,London,51.5072,0.1276
+8,BP,2018,"$244,582.00 ",31.10%,"$3,389.00 ",2847.00%,"$276,515.00 ","74,000",4,no,Energy,United Kingdom,London,51.5072,0.1276
+50,Prudential PLC,2018,"$111,458.00 ",14.9,$30.76 ,18.60%,"$668,029.50 ","24,711",6,no,Financials,United Kingdom,London,51.5072,0.1276
+90,HSBC Holdings,2018,"$79,637.00 ",5.70%,"$10,798.00 ",335.60%,"$2,521,771.00 ","228,687",-2,no,Financials,United Kingdom,London,51.5072,0.1276
+12,BP,2017,"$186,606.00 ",-17.40%,$115.00 ,-,"$263,316.00 ","74,500",-2,no,Energy,United Kingdom,London,51.5072,0.1276
+49,Legal & General Group,2017,"$105,235.00 ",442.30%,"$1,697.90 ",3.40%,"$577,954.00 ","8,939",-,no,Financials,United Kingdom,London,51.5072,0.1276
+56,Prudential PLC,2017,"$96,965.00 ",53.70%,"$2,592.80 ",-34.20%,"$581,221.00 ","23,673",70,no,Financials,United Kingdom,London,51.5072,0.1276
+88,HSBC Holdings,2017,"$75,329.00 ",-15.40%,"$2,479.00 ",-81.70%,"$2,374,986.00 ","241,000",-20,no,Financials,United Kingdom,London,51.5072,0.1276
+90,Aviva,2017,"$74,628.00 ",105.90%,$948.80 ,-32.30%,"$544,063.00 ","29,530",189,no,Financials,United Kingdom,London,51.5072,0.1276
+99,Tesco,2021,"$81,248.00 ",-2%,"$7,948.40 ",541%,"$63,983.90 ","242,911",4,no,Food & Drug Stores,United Kingdom,Welwyn Garden City,51.8062,-0.1932
+92,Tesco,2017,"$74,393.00 ",-15.10%,($52.70),-125.30%,"$57,052.00 ","342,770",-20,no,Food & Drug Stores,United Kingdom,Welwyn Garden City,51.8062,-0.1932
